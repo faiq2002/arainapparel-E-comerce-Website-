@@ -1,0 +1,10 @@
+.boldfontsize
+{
+    font-size: 14px !important;
+}
+
+.boldfontsize:hover .boldfontsize
+{
+    
+    color: rgb(64, 112, 255) !important;
+}

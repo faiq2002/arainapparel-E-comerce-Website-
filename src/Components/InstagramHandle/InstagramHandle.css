@@ -1,0 +1,7 @@
+.follow{
+text-decoration: underline;
+
+}
+.follow:hover{
+    opacity: 0.8 !important;
+}

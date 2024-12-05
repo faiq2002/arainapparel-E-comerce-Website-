@@ -1,0 +1,19 @@
+.right {
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.hover:hover .button {
+  opacity: 1 !important;
+  width: 40% !important;
+  height: 30% !important;
+  transition: 0.9s ease !important;
+}
+.bg {
+  background-color: rgba(255, 255, 255, 0.562) !important;
+}
+.one:hover .mid {
+  padding: 22px 40px 22px 40px !important;
+  font-size: larger !important;
+  transition: 0.3s ease-in-out !important;
+  font-weight: 700 !important;
+}

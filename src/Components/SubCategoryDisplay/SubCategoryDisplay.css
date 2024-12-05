@@ -1,0 +1,11 @@
+.mid{
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.zoom:hover
+{
+    transform: scale(1.05) !important;
+    transition: 0.3s ease-in-out !important;
+    ;
+}

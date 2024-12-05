@@ -1,0 +1,24 @@
+.navlink:hover{
+    color: rgb(64, 112, 255) !important;
+}
+.nav-link:hover{
+    color: rgb(64, 112, 255) !important;
+}
+.nav-link
+{
+    color: rgb(96, 96, 96) !important ;
+    
+}
+.active
+{
+    color: #4070ff !important;
+    background-color: transparent !important;
+}
+
+.dropdown-item {
+    background-color:white !important;
+    
+}
+.dropdown-item.active{
+    color: #4070ff !important;
+}

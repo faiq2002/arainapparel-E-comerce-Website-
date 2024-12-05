@@ -1,0 +1,23 @@
+
+.textHover:hover
+{
+color:rgb(160, 157, 157) !important;
+}
+.image
+{
+  max-height: 7rem;
+  
+  
+}
+.cursor
+{
+  cursor: pointer !important;
+}
+.cart
+{
+  color: rgb(64, 112, 255) !important;
+}
+.cart:hover
+{
+  color: black !important;
+}

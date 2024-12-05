@@ -1,0 +1,57 @@
+.none{
+    display:inline !important;
+    margin: 0% !important;
+    padding: 0% !important;
+    list-style: none !important;
+    color: black !important;
+    text-decoration: none !important;
+    
+
+}
+.line
+{
+   width:15% !important;
+    height: 0.5vh !important;
+    border-radius: 2rem !important;
+    background-color:#4070ff !important;
+}
+.outline
+{
+    outline:none !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+   
+
+    
+    
+}
+.lightgrey
+{
+    border-color: rgb(220, 220, 220) !important;
+    outline: none !important;
+    box-shadow: none !important;
+    cursor: pointer !important;
+}
+.collapsed
+{
+    box-shadow: none !important;
+    background-color: transparent !important;
+}
+.map{
+    width: 100% !important;
+    height: 100% !important;
+}
+.card:hover{
+opacity: 0.7 !important;
+}
+.card{
+    border: none !important;
+    transition: 0.5s ease !important;
+}
+.red{
+   border-color: red !important;
+
+    outline:none !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
