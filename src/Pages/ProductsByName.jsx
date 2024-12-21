@@ -20,7 +20,7 @@ export default function ProductsByName() {
     (v) => v.category === currentCategory
   );
 
-  let currentProductName= CurrentCategoryarray.filter((v)=>v.name===currentProduct);
+  let currentProductName= CurrentCategoryarray.filter((v)=>v.name.includes(currentProduct));
 
   let currentProductNameResize=currentProductName.slice(0,12)
 
@@ -44,7 +44,7 @@ export default function ProductsByName() {
         <Row className="">
           {
             currentProductNameResize.map((value,index)=>{
-              return <ProductCard value={value} key={index} />
+              return <ProductCard value={value} name={currentProduct} key={index} />
             })
           }
         </Row>

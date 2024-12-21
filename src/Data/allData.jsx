@@ -366,7 +366,7 @@ let allData = [
     code: "AA-MH1",
     category: "Men",
 
-    name: "Hoodie",
+    name: "Earth Toned Hoodie",
 
     image: image1,
     details:
@@ -378,7 +378,7 @@ let allData = [
     code: "AA-MH2",
     category: "Men",
 
-    name: "Hoodie",
+    name: "Graphic Print Hoodie",
 
     image: image2,
     details:
@@ -390,7 +390,7 @@ let allData = [
     code: "AA-MH3",
     category: "Men",
 
-    name: "Hoodie",
+    name: "Oversized Streetwear Hoodie",
 
     image: image3,
     details:
@@ -402,19 +402,19 @@ let allData = [
     code: "AA_MH4",
     category: "Men",
 
-    name: "Hoodie",
+    name: "Premium Fabric Hoodie",
 
     image: image4,
     details:
       "This men’s hoodie is designed to combine comfort, style, and practicality, making it a versatile choice for casual wear or outdoor activities. Crafted from high-quality fabrics such as cotton, polyester, or fleece, it offers warmth, durability, and breathability, ensuring all-day comfort. The hoodie features a spacious front pocket for convenience, a drawstring-adjustable hood for added coverage, and reinforced stitching for long-lasting wear. With customizable options like sublimation printing or embroidery, it allows for unique designs, logos, or patterns to match your personal style or brand identity. Perfect for any season, this hoodie is a must-have for effortless fashion and functionality.",
-    fabric: "Polyster+Cotton",
+    fabric: "100% Pure Polyster",
   },
   {
     id: 5,
     code: "AA-MH5",
     category: "Men",
 
-    name: "Hoodie",
+    name: "Denim Hoodie",
 
     image: image5,
     details:
@@ -426,7 +426,7 @@ let allData = [
     code: "AA-MH6",
     category: "Men",
 
-    name: "Hoodie",
+    name: "Venom Hoodie",
 
     image: image6,
     details:
@@ -438,7 +438,7 @@ let allData = [
     code: "AA-MH7",
     category: "Men",
 
-    name: "Hoodie",
+    name: "Cutomize Typography Hoodie",
 
     image: image7,
     details:
@@ -450,7 +450,7 @@ let allData = [
     code: "AA-MH8",
     category: "Men",
 
-    name: "Hoodie",
+    name: "Lightweight Packable Hoodie",
 
     image: image8,
     details:
@@ -462,7 +462,7 @@ let allData = [
     code: "AA-MH9",
     category: "Men",
 
-    name: "Hoodie",
+    name: "CloudFit Pullover Hoodie",
 
     image: image9,
     details:
@@ -474,7 +474,7 @@ let allData = [
     code: "AA-MH10",
     category: "Men",
 
-    name: "Hoodie",
+    name: "Dynamic Mod Hoodie",
 
     image: image10,
     details:
@@ -486,7 +486,7 @@ let allData = [
     code: "AA-MH11",
     category: "Men",
 
-    name: "Hoodie",
+    name: "Mindful Moments Hoodie",
 
     image: image11,
     details:
@@ -498,7 +498,7 @@ let allData = [
     code: "AA-MH12",
     category: "Men",
 
-    name: "Hoodie",
+    name: "ComfyCore-Oversized-Hoodie",
 
     image: image12,
     details:
@@ -510,7 +510,7 @@ let allData = [
     code: "AA-MTS13",
     category: "Men",
 
-    name: "T-Shirt",
+    name: "Alpha Tee T-Shirt",
 
     image: image13,
     details:
@@ -522,7 +522,7 @@ let allData = [
     code: "AA-MTS14",
     category: "Men",
 
-    name: "T-Shirt",
+    name: "Obsidian Fit T-Shirt",
 
     image: image14,
     details:
@@ -534,7 +534,7 @@ let allData = [
     code: "AA-MTS15",
     category: "Men",
 
-    name: "T-Shirt",
+    name: "Cobalt Drift T-Shirt",
 
     image: image15,
     details:
@@ -546,7 +546,7 @@ let allData = [
     code: "AA-MTS16",
     category: "Men",
 
-    name: "T-Shirt",
+    name: "Echo Stripe T-Shirt",
 
     image: image16,
     details:
@@ -558,7 +558,7 @@ let allData = [
     code: "AA-MTS17",
     category: "Men",
 
-    name: "T-Shirt",
+    name: "Frost Edge T-Shirt",
 
     image: image17,
     details:
@@ -570,7 +570,7 @@ let allData = [
     code: "AA-MTS18",
     category: "Men",
 
-    name: "T-Shirt",
+    name: "Slate Wave T-Shirt",
 
     image: image18,
     details:
@@ -582,7 +582,7 @@ let allData = [
     code: "AA-MTS19",
     category: "Men",
 
-    name: "T-Shirt",
+    name: "Prime Layer T-Shirt",
 
     image: image19,
     details:
@@ -594,7 +594,7 @@ let allData = [
     code: "AA-MTS20",
     category: "Men",
 
-    name: "T-Shirt",
+    name: "Bold Mode T-Shirt",
 
     image: image20,
     details:
@@ -606,7 +606,7 @@ let allData = [
     code: "AA-MTS21",
     category: "Men",
 
-    name: "T-Shirt",
+    name: "Iron Peak T-Shirt",
 
     image: image21,
     details:
@@ -618,7 +618,7 @@ let allData = [
     code: "AA-MTS22",
     category: "Men",
 
-    name: "T-Shirt",
+    name: "Graphite Mode T-Shirt",
 
     image: image22,
     details:
@@ -630,7 +630,7 @@ let allData = [
     code: "AA-MTS23",
     category: "Men",
 
-    name: "T-Shirt",
+    name: "Azure Trail T-Shirt",
 
     image: image23,
     details:
@@ -642,7 +642,7 @@ let allData = [
     code: "AA-MTS24",
     category: "Men",
 
-    name: "T-Shirt",
+    name: "Shadow Vibe T-Shirt",
 
     image: image24,
     details:
@@ -654,7 +654,7 @@ let allData = [
     code: "AA-MPS25",
     category: "Men",
 
-    name: "Polo-Shirt",
+    name: "Prime Polo-Shirt",
 
     image: image25,
     details:
@@ -666,7 +666,7 @@ let allData = [
     code: "AA-MPS26",
     category: "Men",
 
-    name: "Polo-Shirt",
+    name: "Classic Collar Polo-Shirt",
 
     image: image26,
     details:
@@ -678,7 +678,7 @@ let allData = [
     code: "AA-MPS27",
     category: "Men",
 
-    name: "Polo-Shirt",
+    name: "Elite Threads Polo-Shirt",
 
     image: image27,
     details:
@@ -690,7 +690,7 @@ let allData = [
     code: "AA-MPS28",
     category: "Men",
 
-    name: "Polo-Shirt",
+    name: "Urban Polo-Shirt",
 
     image: image28,
     details:
@@ -702,7 +702,7 @@ let allData = [
     code: "AA-MPS29",
     category: "Men",
 
-    name: "Polo-Shirt",
+    name: "Timeless Fit Polo-Shirt",
 
     image: image29,
     details:
@@ -714,7 +714,7 @@ let allData = [
     code: "AA-MPS30",
     category: "Men",
 
-    name: "Polo-Shirt",
+    name: "Ace Polo-Shirt",
 
     image: image30,
     details:
@@ -726,7 +726,7 @@ let allData = [
     code: "AA-MPS31",
     category: "Men",
 
-    name: "Polo-Shirt",
+    name: "Refined Style Polo-Shirt",
 
     image: image31,
     details:
@@ -738,7 +738,7 @@ let allData = [
     code: "AA-MPS32",
     category: "Men",
 
-    name: "Polo-Shirt",
+    name: "Luxe Collar Polo-Shirt",
 
     image: image32,
     details:
@@ -750,7 +750,7 @@ let allData = [
     code: "AA-MPS33",
     category: "Men",
 
-    name: "Polo-Shirt",
+    name: "Core Polo-Shirt",
 
     image: image33,
     details:
@@ -762,7 +762,7 @@ let allData = [
     code: "AA-MPS34",
     category: "Men",
 
-    name: "Polo-Shirt",
+    name: "Bold Stitch Polo-Shirt",
 
     image: image34,
     details:
@@ -774,7 +774,7 @@ let allData = [
     code: "AA-MPS35",
     category: "Men",
 
-    name: "Polo-Shirt",
+    name: " SharpWear Polo-Shirt",
 
     image: image35,
     details:
@@ -786,7 +786,7 @@ let allData = [
     code: "AA-MPS36",
     category: "Men",
 
-    name: "Polo-Shirt",
+    name: "Heritage Polo-Shirt",
 
     image: image36,
     details:
@@ -798,7 +798,7 @@ let allData = [
     code: "AA-MS37",
     category: "Men",
 
-    name: "Shorts",
+    name: "Active Edge Shorts",
 
     image: image37,
     details:
@@ -810,7 +810,7 @@ let allData = [
     code: "AA-MS38",
     category: "Men",
 
-    name: "Shorts",
+    name: "FlexFit Shorts",
 
     image: image38,
     details:
@@ -822,7 +822,7 @@ let allData = [
     code: "AA-MS39",
     category: "Men",
 
-    name: "Shorts",
+    name: "Urban Breeze Shorts",
 
     image: image39,
     details:
@@ -834,7 +834,7 @@ let allData = [
     code: "AA-MS40",
     category: "Men",
 
-    name: "Shorts",
+    name: "PrimeWear Shorts",
 
     image: image40,
     details:
@@ -846,7 +846,7 @@ let allData = [
     code: "AA-MS41",
     category: "Men",
 
-    name: "Shorts",
+    name: "Core Comfort Shorts",
 
     image: image41,
     details:
@@ -858,7 +858,7 @@ let allData = [
     code: "AA-MS42",
     category: "Men",
 
-    name: "Shorts",
+    name: "Trail Ready Shorts",
 
     image: image42,
     details:
@@ -870,7 +870,7 @@ let allData = [
     code: "AA-MS43",
     category: "Men",
 
-    name: "Shorts",
+    name: "BoldMove Shorts",
 
     image: image43,
     details:
@@ -882,7 +882,7 @@ let allData = [
     code: "AA-MS44",
     category: "Men",
 
-    name: "Shorts",
+    name: "StreetFlex Shorts",
 
     image: image44,
     details:
@@ -894,7 +894,7 @@ let allData = [
     code: "AA-MS45",
     category: "Men",
 
-    name: "Shorts",
+    name: "Swift Threads Shorts",
 
     image: image45,
     details:
@@ -906,7 +906,7 @@ let allData = [
     code: "AA-MS46",
     category: "Men",
 
-    name: "Shorts",
+    name: "Luxe Fit Shorts",
 
     image: image46,
     details:
@@ -918,7 +918,7 @@ let allData = [
     code: "AA-MS47",
     category: "Men",
 
-    name: "Shorts",
+    name: "VibeWear Shorts",
 
     image: image47,
     details:
@@ -930,7 +930,7 @@ let allData = [
     code: "AA-MS48",
     category: "Men",
 
-    name: "Shorts",
+    name: "EasyStride Shorts",
 
     image: image48,
     details:
@@ -942,7 +942,7 @@ let allData = [
     code: "AA-MTS49",
     category: "Men",
 
-    name: "Tracksuit",
+    name: "PowerStride Tracksuit",
 
     image: image49,
     details:
@@ -954,7 +954,7 @@ let allData = [
     code: "AA-MTS50",
     category: "Men",
 
-    name: "Tracksuit",
+    name: "ActiveCore Tracksuit",
 
     image: image50,
     details:
@@ -966,7 +966,7 @@ let allData = [
     code: "AA-MTS51",
     category: "Men",
 
-    name: "Tracksuit",
+    name: "SwiftGear Tracksuit",
 
     image: image51,
     details:
@@ -978,7 +978,7 @@ let allData = [
     code: "AA-MTS52",
     category: "Men",
 
-    name: "Tracksuit",
+    name: "EdgeTracks Tracksuit",
 
     image: image52,
     details:
@@ -990,7 +990,7 @@ let allData = [
     code: "AA-MTS53",
     category: "Men",
 
-    name: "Tracksuit",
+    name: "PrimeMotion Tracksuit",
 
     image: image53,
     details:
@@ -1002,7 +1002,7 @@ let allData = [
     code: "AA-MTS54",
     category: "Men",
 
-    name: "Tracksuit",
+    name: "UrbanFitTracksuit",
 
     image: image54,
     details:
@@ -1014,7 +1014,7 @@ let allData = [
     code: "AA-MTS55",
     category: "Men",
 
-    name: "Tracksuit",
+    name: "TrailFlex Tracksuit",
 
     image: image55,
     details:
@@ -1026,7 +1026,7 @@ let allData = [
     code: "AA-MTS56",
     category: "Men",
 
-    name: "Tracksuit",
+    name: "LuxeStride Tracksuit",
 
     image: image56,
     details:
@@ -1038,7 +1038,7 @@ let allData = [
     code: "AA-MTS57",
     category: "Men",
 
-    name: "Tracksuit",
+    name: "CoreVelocity Tracksuit",
 
     image: image57,
     details:
@@ -1050,7 +1050,7 @@ let allData = [
     code: "AA-MTS58",
     category: "Men",
 
-    name: "Tracksuit",
+    name: "BoldMove Tracksuit",
 
     image: image58,
     details:
@@ -1062,7 +1062,7 @@ let allData = [
     code: "AA-MTS59",
     category: "Men",
 
-    name: "Tracksuit",
+    name: "StreetPulse Tracksuit",
 
     image: image59,
     details:
@@ -1074,7 +1074,7 @@ let allData = [
     code: "AA-MTS60",
     category: "Men",
 
-    name: "Tracksuit",
+    name: "Performance Edge Tracksuit",
 
     image: image60,
     details:
@@ -1086,128 +1086,128 @@ let allData = [
     code: "AA-MSS61",
     category: "Men",
 
-    name: "Sweatshirt",
+    name: "CozyCore Sweatshirt",
 
     image: image61,
 
     details:
       "This men's sweatshirt is designed to offer both comfort and style, making it a versatile addition to your wardrobe. Crafted from soft, high-quality fabrics like cotton, polyester, or fleece, it provides warmth and breathability, perfect for casual wear or layering in cooler weather. The sweatshirt features a relaxed fit, ribbed cuffs, and a comfortable crew neckline or hoodie option, ensuring a snug and cozy feel. Whether you’re lounging, running errands, or heading to the gym, this sweatshirt combines practicality with fashion. With customizable options like embroidery or screen printing, it’s easy to personalize with logos, designs, or team names.",
-    fabric: "Fleece",
+    fabric: "Polyster Fleece",
   },
   {
     id: 62,
     code: "AA-MSS62",
     category: "Men",
 
-    name: "Sweatshirt",
+    name: "Urban Chill Sweatshirt",
 
     image: image62,
     details:
       "This men's sweatshirt is designed to offer both comfort and style, making it a versatile addition to your wardrobe. Crafted from soft, high-quality fabrics like cotton, polyester, or fleece, it provides warmth and breathability, perfect for casual wear or layering in cooler weather. The sweatshirt features a relaxed fit, ribbed cuffs, and a comfortable crew neckline or hoodie option, ensuring a snug and cozy feel. Whether you’re lounging, running errands, or heading to the gym, this sweatshirt combines practicality with fashion. With customizable options like embroidery or screen printing, it’s easy to personalize with logos, designs, or team names.",
-    fabric: "Fleece",
+    fabric: "Polyster Fleece",
   },
   {
     id: 63,
     code: "AA-MSS63",
     category: "Men",
 
-    name: "Sweatshirt",
+    name: "BoldHaven Sweatshirt",
 
     image: image63,
     details:
       "This men's sweatshirt is designed to offer both comfort and style, making it a versatile addition to your wardrobe. Crafted from soft, high-quality fabrics like cotton, polyester, or fleece, it provides warmth and breathability, perfect for casual wear or layering in cooler weather. The sweatshirt features a relaxed fit, ribbed cuffs, and a comfortable crew neckline or hoodie option, ensuring a snug and cozy feel. Whether you’re lounging, running errands, or heading to the gym, this sweatshirt combines practicality with fashion. With customizable options like embroidery or screen printing, it’s easy to personalize with logos, designs, or team names.",
-    fabric: "Fleece",
+    fabric: "Polyster Fleece",
   },
   {
     id: 64,
     code: "AA-MSS64",
     category: "Men",
 
-    name: "Sweatshirt",
+    name: "StreetLuxe Sweatshirt",
 
     image: image64,
     details:
       "This men's sweatshirt is designed to offer both comfort and style, making it a versatile addition to your wardrobe. Crafted from soft, high-quality fabrics like cotton, polyester, or fleece, it provides warmth and breathability, perfect for casual wear or layering in cooler weather. The sweatshirt features a relaxed fit, ribbed cuffs, and a comfortable crew neckline or hoodie option, ensuring a snug and cozy feel. Whether you’re lounging, running errands, or heading to the gym, this sweatshirt combines practicality with fashion. With customizable options like embroidery or screen printing, it’s easy to personalize with logos, designs, or team names.",
-    fabric: "Fleece",
+    fabric: "Polyster Fleece",
   },
   {
     id: 65,
     code: "AA-MSS65",
     category: "Men",
 
-    name: "Sweatshirt",
+    name: "TrailComfort Sweatshirt",
 
     image: image65,
     details:
       "This men's sweatshirt is designed to offer both comfort and style, making it a versatile addition to your wardrobe. Crafted from soft, high-quality fabrics like cotton, polyester, or fleece, it provides warmth and breathability, perfect for casual wear or layering in cooler weather. The sweatshirt features a relaxed fit, ribbed cuffs, and a comfortable crew neckline or hoodie option, ensuring a snug and cozy feel. Whether you’re lounging, running errands, or heading to the gym, this sweatshirt combines practicality with fashion. With customizable options like embroidery or screen printing, it’s easy to personalize with logos, designs, or team names.",
-    fabric: "Fleece",
+    fabric: "Polyster Fleece",
   },
   {
     id: 66,
     code: "AA-MSS66",
     category: "Men",
 
-    name: "Sweatshirt",
+    name: "EdgeWarm Sweatshirt",
 
     image: image66,
     details:
       "This men's sweatshirt is designed to offer both comfort and style, making it a versatile addition to your wardrobe. Crafted from soft, high-quality fabrics like cotton, polyester, or fleece, it provides warmth and breathability, perfect for casual wear or layering in cooler weather. The sweatshirt features a relaxed fit, ribbed cuffs, and a comfortable crew neckline or hoodie option, ensuring a snug and cozy feel. Whether you’re lounging, running errands, or heading to the gym, this sweatshirt combines practicality with fashion. With customizable options like embroidery or screen printing, it’s easy to personalize with logos, designs, or team names.",
-    fabric: "Fleece",
+    fabric: "Polyster Fleece",
   },
   {
     id: 67,
     code: "AA-MSS67",
     category: "Men",
 
-    name: "Sweatshirt",
+    name: "ChillFlex Sweatshirt",
 
     image: image67,
     details:
       "This men's sweatshirt is designed to offer both comfort and style, making it a versatile addition to your wardrobe. Crafted from soft, high-quality fabrics like cotton, polyester, or fleece, it provides warmth and breathability, perfect for casual wear or layering in cooler weather. The sweatshirt features a relaxed fit, ribbed cuffs, and a comfortable crew neckline or hoodie option, ensuring a snug and cozy feel. Whether you’re lounging, running errands, or heading to the gym, this sweatshirt combines practicality with fashion. With customizable options like embroidery or screen printing, it’s easy to personalize with logos, designs, or team names.",
-    fabric: "Fleece",
+    fabric: "Polyster Fleece",
   },
   {
     id: 68,
     code: "AA-MSS68",
     category: "Men",
 
-    name: "Sweatshirt",
+    name: "Heritage Fit Sweatshirt",
 
     image: image68,
     details:
       "This men's sweatshirt is designed to offer both comfort and style, making it a versatile addition to your wardrobe. Crafted from soft, high-quality fabrics like cotton, polyester, or fleece, it provides warmth and breathability, perfect for casual wear or layering in cooler weather. The sweatshirt features a relaxed fit, ribbed cuffs, and a comfortable crew neckline or hoodie option, ensuring a snug and cozy feel. Whether you’re lounging, running errands, or heading to the gym, this sweatshirt combines practicality with fashion. With customizable options like embroidery or screen printing, it’s easy to personalize with logos, designs, or team names.",
-    fabric: "Fleece",
+    fabric: "Polyster Fleece",
   },
   {
     id: 69,
     code: "AA-MSS69",
     category: "Men",
 
-    name: "Sweatshirt",
+    name: "SoftStride Sweatshirt",
 
     image: image69,
     details:
       "This men's sweatshirt is designed to offer both comfort and style, making it a versatile addition to your wardrobe. Crafted from soft, high-quality fabrics like cotton, polyester, or fleece, it provides warmth and breathability, perfect for casual wear or layering in cooler weather. The sweatshirt features a relaxed fit, ribbed cuffs, and a comfortable crew neckline or hoodie option, ensuring a snug and cozy feel. Whether you’re lounging, running errands, or heading to the gym, this sweatshirt combines practicality with fashion. With customizable options like embroidery or screen printing, it’s easy to personalize with logos, designs, or team names.",
-    fabric: "Fleece",
+    fabric: "Polyster Fleece",
   },
   {
     id: 70,
     code: "AA-MSS70",
     category: "Men",
 
-    name: "Sweatshirt",
+    name: "CoreVibe Sweatshirt",
 
     image: image70,
     details:
       "This men's sweatshirt is designed to offer both comfort and style, making it a versatile addition to your wardrobe. Crafted from soft, high-quality fabrics like cotton, polyester, or fleece, it provides warmth and breathability, perfect for casual wear or layering in cooler weather. The sweatshirt features a relaxed fit, ribbed cuffs, and a comfortable crew neckline or hoodie option, ensuring a snug and cozy feel. Whether you’re lounging, running errands, or heading to the gym, this sweatshirt combines practicality with fashion. With customizable options like embroidery or screen printing, it’s easy to personalize with logos, designs, or team names.",
-    fabric: "Fleece",
+    fabric: "Polyster Fleece",
   },
   {
     id: 71,
     code: "AA-MSS71",
     category: "Men",
 
-    name: "Sweatshirt",
+    name: "CloudWear Sweatshirt",
 
     image: image71,
     details:
@@ -1219,19 +1219,19 @@ let allData = [
     code: "AA-MSS72",
     category: "Men",
 
-    name: "Sweatshirt",
+    name: "Baggy Oversize  Sweatshirt",
 
     image: image72,
     details:
       "This men's sweatshirt is designed to offer both comfort and style, making it a versatile addition to your wardrobe. Crafted from soft, high-quality fabrics like cotton, polyester, or fleece, it provides warmth and breathability, perfect for casual wear or layering in cooler weather. The sweatshirt features a relaxed fit, ribbed cuffs, and a comfortable crew neckline or hoodie option, ensuring a snug and cozy feel. Whether you’re lounging, running errands, or heading to the gym, this sweatshirt combines practicality with fashion. With customizable options like embroidery or screen printing, it’s easy to personalize with logos, designs, or team names.",
-    fabric: "Fleece",
+    fabric: "Polyster Fleece",
   },
   {
     id: 73,
     code: "AA-MJP73",
     category: "Men",
 
-    name: "Jogger-Pant",
+    name: "SwiftMove Jogger-Pant",
 
     image: image73,
     details:
@@ -1243,7 +1243,7 @@ let allData = [
     code: "AA-MJP74",
     category: "Men",
 
-    name: "Jogger-Pant",
+    name: "UrbanStride Jogger-Pant",
 
     image: image74,
     details:
@@ -1255,7 +1255,7 @@ let allData = [
     code: "AA-MJP75",
     category: "Men",
 
-    name: "Jogger-Pant",
+    name: "FlexPace Jogger-Pant",
 
     image: image75,
     details:
@@ -1267,7 +1267,7 @@ let allData = [
     code: "AA-MJP76",
     category: "Men",
 
-    name: "Jogger-Pant",
+    name: "CoreFit Jogger-Pant",
 
     image: image76,
     details:
@@ -1279,7 +1279,7 @@ let allData = [
     code: "AA-MJP77",
     category: "Men",
 
-    name: "Jogger-Pant",
+    name: "ActiveFlex Jogger-Pant",
 
     image: image77,
     details:
@@ -1291,7 +1291,7 @@ let allData = [
     code: "AA-MJP78",
     category: "Men",
 
-    name: "Jogger-Pant",
+    name: "StreetEase Jogger-Pant",
 
     image: image78,
     details:
@@ -1303,7 +1303,7 @@ let allData = [
     code: "AA-MJP79",
     category: "Men",
 
-    name: "Jogger-Pant",
+    name: "LuxeFlow Jogger-Pant",
 
     image: image79,
     details:
@@ -1315,19 +1315,19 @@ let allData = [
     code: "AA-MJP80",
     category: "Men",
 
-    name: "Jogger-Pant",
+    name: "PrimeMotion Jogger-Pant",
 
     image: image80,
     details:
       "This men’s jogger pant is designed to combine comfort, style, and functionality, making it perfect for workouts, casual wear, or lounging. Made from high-quality fabrics like cotton, polyester, or blends, it offers breathability, flexibility, and moisture-wicking properties, keeping you comfortable throughout the day. The joggers feature an elastic waistband with a drawstring for a secure fit, tapered legs for a modern look, and ribbed cuffs at the ankles for a snug fit. Whether you’re hitting the gym, running errands, or relaxing at home, these jogger pants provide the ideal balance of comfort and style. With customizable options for logos or designs, they can easily reflect your personal style or brand.",
-    fabric: "Cotton+Polyster",
+    fabric: "EdgeRun Cotton+Polyster",
   },
   {
     id: 81,
     code: "AA-MJP81",
     category: "Men",
 
-    name: "Jogger-Pant",
+    name: "TrueFit Jogger-Pant",
 
     image: image81,
     details:
@@ -1339,7 +1339,7 @@ let allData = [
     code: "AA-MJP82",
     category: "Men",
 
-    name: "Jogger-Pant",
+    name: "ChillFlex Jogger-Pant",
 
     image: image82,
     details:
@@ -1351,7 +1351,7 @@ let allData = [
     code: "AA-MJP83",
     category: "Men",
 
-    name: "Jogger-Pant",
+    name: "TrailComfort Jogger-Pant",
 
     image: image83,
     details:
@@ -1363,7 +1363,7 @@ let allData = [
     code: "AA-MJP84",
     category: "Men",
 
-    name: "Jogger-Pant",
+    name: "FlowFit Jogger-Pant",
 
     image: image84,
     details:
@@ -1375,7 +1375,7 @@ let allData = [
     code: "AA-MS85",
     category: "Men",
 
-    name: "Singlet",
+    name: "PrimeFit Singlet",
 
     image: image85,
     details:
@@ -1387,7 +1387,7 @@ let allData = [
     code: "AA-MS86",
     category: "Men",
 
-    name: "Singlet",
+    name: "BoldEdge Singlet",
 
     image: image86,
     details:
@@ -1399,7 +1399,7 @@ let allData = [
     code: "AA-MS87",
     category: "Men",
 
-    name: "Singlet",
+    name: "CoreVibe Singlet",
 
     image: image87,
     details:
@@ -1411,7 +1411,7 @@ let allData = [
     code: "AA-MS88",
     category: "Men",
 
-    name: "Singlet",
+    name: "UrbanFlex Singlet",
 
     image: image88,
     details:
@@ -1423,7 +1423,7 @@ let allData = [
     code: "AA-MS89",
     category: "Men",
 
-    name: "Singlet",
+    name: "ChillCore Singlet",
 
     image: image89,
     details:
@@ -1435,7 +1435,7 @@ let allData = [
     code: "AA-MS90",
     category: "Men",
 
-    name: "Singlet",
+    name: "ActivePulse Singlet",
 
     image: image90,
     details:
@@ -1447,7 +1447,7 @@ let allData = [
     code: "AA-MS91",
     category: "Men",
 
-    name: "Singlet",
+    name: "LuxeFit Singlet",
 
     image: image91,
     details:
@@ -1459,7 +1459,7 @@ let allData = [
     code: "AA-MS92",
     category: "Men",
 
-    name: "Singlet",
+    name: "SwiftStride Singlet",
 
     image: image92,
     details:
@@ -1471,7 +1471,7 @@ let allData = [
     code: "AA-MS93",
     category: "Men",
 
-    name: "Singlet",
+    name: "TrueMotion Singlet",
 
     image: image93,
     details:
@@ -1483,7 +1483,7 @@ let allData = [
     code: "AA-MS94",
     category: "Men",
 
-    name: "Singlet",
+    name: "EdgeFlex Singlet",
 
     image: image94,
     details:
@@ -1495,7 +1495,7 @@ let allData = [
     code: "AA-MS95",
     category: "Men",
 
-    name: "Singlet",
+    name: "FlexFlow Singlet",
 
     image: image95,
     details:
@@ -1507,7 +1507,7 @@ let allData = [
     code: "AA-MS96",
     category: "Men",
 
-    name: "Singlet",
+    name: "StreetVibe Singlet",
 
     image: image96,
     details:
@@ -1518,7 +1518,7 @@ let allData = [
   {
     code: "AAWH-01",
     category: "Women",
-    name: "Hoodie",
+    name: "Cozy Chic Hoodie",
     image: womenH1,
     details:
       "BLACKSTEP Women Casual Fleece Sherpa Lined Hoodie Winter Warm Pullover Hooded Sweatshirt Pullover fleece sherpa hoodie, fully sherpa lining, including sleeves hood pocket, super soft and warm. Drawstring hooded neck, long sleeves with elasticized ribbed cuffs, regular length, relaxed fit. 1 big kangaroo pocket at front, big enough to put your daily essentials, or warm your hands. The Hoodies & Sweatshirts can be worn outside as warm sweatshirt or worn inside as warm sweaters, perfect for fall transitional season and winter cold weather. Long sleeve hooded sweatshirts pullover hoodie, your coziest, most-loved layer cut in a loose silhouette. 8 classic soild colors and fashion camo color for you to choose: black hoodie, grey hoodie men, army green hoodie, navy blue hoodie, white hoodie, Just try them, you will be not disappointed.",
@@ -1527,7 +1527,7 @@ let allData = [
   {
     code: "AAWH-02",
     category: "Women",
-    name: "Hoodie",
+    name: "Urban Bloom Hoodie",
     image: womenH2,
     details:
       "Give your daily-wear wardrobe a unique turn with our new line of Hoodies or sweatshirts Tagas brings you the Premium range with Kangaroo Pocket Full Sleeve Hoodies.stylish winter with hoodie has full sleeves and is definitely a must-have in your wardrobe. Best Fashionably Comfortable that you have wore till now, Fabric is Soft",
@@ -1536,7 +1536,7 @@ let allData = [
   {
     code: "AAWH-03",
     category: "Women",
-    name: "Hoodie",
+    name: "Soft Spectrum Hoodie",
     image: womenH3,
     details:
       "Experience comfort and style with our premium apparel, designed for everyday wear. Crafted from soft, durable fabrics, they offer warmth and coziness without compromising on breathability. Featuring functional details and a modern aesthetic, these pieces combine practicality with effortless style. Available in a range of colors and sizes, they’re perfect for layering in cooler weather or making a statement with casual outfits. Elevate your wardrobe with these versatile essentials!",
@@ -1545,7 +1545,7 @@ let allData = [
   {
     code: "AAWH-04",
     category: "Women",
-    name: "Hoodie",
+    name: "Casual Bliss Hoodie",
     image: womenH4,
     details:
       "Pair this sweaters for women with jeans for classic everyday look. This stylish & attractive winter wear for women is suitable for all body types. Best jackets for women stylish latest. We are taking care of your comfortness, this ladies jacket for women winter will provide you highly comfort feeling when wearing it",
@@ -1554,7 +1554,7 @@ let allData = [
   {
     code: "AAWH-05",
     category: "Women",
-    name: "Hoodie",
+    name: "Everyday Glow Hoodie",
     image: womenH5,
     details:
       "Introducing the **Popster Printed Hooded Sweatshirt**, where style meets comfort to become the ultimate addition to your winter wardrobe. This chic hoodie features a distinctive Popster print that adds a modern and trendy flair, keeping you fashionable throughout the season. Designed with a regular fit, it strikes the perfect balance between style and comfort, making it a versatile choice for various occasions. Crafted from soft fleece fabric, it provides excellent insulation against the winter chill while ensuring a cozy and pleasant feel against your skin. Tailored specifically for women, this sweatshirt not only keeps you warm but also enhances your overall look with its practical yet stylish design. Whether you're stepping out for a casual day or enjoying a relaxed evening at home, the Popster Printed Hooded Sweatshirt effortlessly adapts to your lifestyle. Embrace the season with confidence and sophistication—this must-have piece is perfect for elevating your winter wardrobe!",
@@ -1563,7 +1563,7 @@ let allData = [
   {
     code: "AAWH-06",
     category: "Women",
-    name: "Hoodie",
+    name: "Comfort Curve Hoodie",
     image: womenH6,
     details:
       "Stylish Warm Fabric Loose Fit Soft Chic Trendy Cute Colour with Kangaroo Pockets and Rib Bottoms Hoodies for women come in a wide variety of styles, designs, and materials to suit different preferences and needs. Whether you're looking for a casual and comfortable hoodie for lounging at home, a stylish option for going out, or a performance hoodie for outdoor activities, there are plenty of choices available. Here are some popular types of hoodies for women",
@@ -1572,7 +1572,7 @@ let allData = [
   {
     code: "AAWH-07",
     category: "Women",
-    name: "Hoodie",
+    name: "Serene Style Hoodie",
     image: womenH7,
     details:
       "The **Oversized Hooded Sweatshirt** is the ultimate blend of comfort and style, perfect for cozy, casual winter days. Featuring an oversized fit and a hooded neck with adjustable drawstrings, it offers both practicality and a trendy look. Made from high-quality cotton fleece, this sweatshirt provides exceptional warmth and coziness, while the full sleeves ensure extra protection against the winter chill. Ribbed cuffs and hem effectively block out the cold, keeping you snug and stylish throughout the day. The printed pattern adds a modern touch, making it a versatile choice for any occasion, whether you’re heading out or relaxing at home. Available in multiple sizes, it’s easy to find your perfect fit. With machine-washable convenience, maintaining this wardrobe essential is effortless. Each pack contains one Oversized Hooded Sweatshirt, making it a must-have for staying warm and fashionable this season.",
@@ -1581,7 +1581,7 @@ let allData = [
   {
     code: "AAWH-08",
     category: "Women",
-    name: "Hoodie",
+    name: "Luxe Layers Hoodie",
     image: womenH8,
     details:
       "Heading out for a casual day? This sweatshirt has you covered with its blend of comfort and style. The spacious hood with adjustable drawstrings adds a customizable touch, making it practical and fashionable. Crafted from high-quality cotton fleece, it guarantees warmth and coziness during cold winter days. The full sleeves provide extra protection against the chill, while ribbed cuffs and hem effectively keep the cold out, ensuring you stay snug in style. Available in multiple sizes, it’s easy to find your perfect fit for any occasion.",
@@ -1590,7 +1590,7 @@ let allData = [
   {
     code: "AAWH-09",
     category: "Women",
-    name: "Hoodie",
+    name: "Radiant Relax Hoodie",
     image: womenH9,
     details:
       "This hoodie features a **regular fit** that ensures comfort and ease of wear, making it a versatile addition to your wardrobe. Designed with a **graphic pattern**, it adds a stylish touch to your casual look. The **full sleeves** provide added warmth and coverage, making it ideal for cooler days. Each pack contains one hoodie, crafted to blend style and functionality effortlessly.",
@@ -1599,7 +1599,7 @@ let allData = [
   {
     code: "AAWH-010",
     category: "Women",
-    name: "Hoodie",
+    name: "Haven Hoodie",
     image: womenH10,
     details:
       "Made from soft and durable **cotton fleece**, this sweatshirt offers warmth and comfort while keeping you effortlessly stylish. Featuring a trendy **printed pattern** and **full sleeves**, it’s perfect for chilly days when you need extra coverage. The spacious hood with adjustable drawstrings adds a practical and customizable touch, making it ideal for casual outings or relaxed moments at home. Stay cozy and fashionable wherever you go with this versatile wardrobe essential.",
@@ -1608,7 +1608,7 @@ let allData = [
   {
     code: "AAWH-011",
     category: "Women",
-    name: "Hoodie",
+    name: "Dreamy Drape Hoodie",
     image: womenH11,
     details:
       "This premium export-quality branded sweatshirt for women combines style and comfort effortlessly. Made from a **cotton blend** with a stretchable fabric composition, it ensures a perfect fit and ultimate coziness. Featuring a **plain pattern** and a **pullover design**, this sweatshirt offers a sleek and modern look. The **hooded neckline** and **kangaroo pocket** add practicality and a casual vibe, making it a versatile choice for everyday wear. With a **regular length** and **long sleeves**, it provides excellent coverage while maintaining a stylish silhouette. Perfect for any occasion, this unique collection is a must-have for your wardrobe.",
@@ -1617,7 +1617,7 @@ let allData = [
   {
     code: "AAWH-012",
     category: "Women",
-    name: "Hoodie",
+    name: "Breezy Comfort Hoodie",
     image: womenH12,
     details:
       "This sweatshirt is designed with a **regular fit**, ensuring a comfortable and flattering silhouette for everyday wear. For easy maintenance, follow these **wash care instructions**: machine wash cold, tumble dry on low, and avoid using bleach to preserve the fabric's quality. Don’t forget to check our size chart to find your perfect fit and enjoy both style and comfort effortlessly.",
@@ -1626,7 +1626,7 @@ let allData = [
   {
     code: "AAWSH-01",
     category: "Women",
-    name: "Sweatshirt",
+    name: "Cozy Core Sweatshirt",
     image: womenSH1,
     details:
       "Suitable for all seasons, this pullover features a printed pattern and is designed with a round neckline. It has a regular length and long sleeves, making it perfect for everyday wear.",
@@ -1635,7 +1635,7 @@ let allData = [
   {
     code: "AAWSH-02",
     category: "Women",
-    name: "Sweatshirt",
+    name: "Snuggle Shade Sweatshirt",
     image: womenSH2,
     details:
       "This sweatshirt offers a relaxed fit, featuring a loose, oversized silhouette for a cozy and comfortable wear. Made from a soft cotton-blend material, it provides a snug and warm feel against the skin. Its versatile style includes a classic crew neckline and long sleeves, allowing for easy dressing up or down. The rich brown hue adds a laid-back yet chic vibe, perfect for everyday casual wear. Additionally, it is machine washable, making it easy to clean and maintain with minimal effort.",
@@ -1644,7 +1644,7 @@ let allData = [
   {
     code: "AAWSH-03",
     category: "Women",
-    name: "Sweatshirt",
+    name: "Soft Horizon Sweatshirt",
     image: womenSH3,
     details:
       "This premium cotton fleece sweatshirt offers a regular fit and is perfect for the winter season. It is a fashion essential that can be worn for any occasion, providing both warmth and style.",
@@ -1653,7 +1653,7 @@ let allData = [
   {
     code: "AAWSH-04",
     category: "Women",
-    name: "Sweatshirt",
+    name: "Eclipse  Sweatshirt",
     image: womenSH4,
     details:
       "This premium and warm cotton fleece sweatshirt offers a regular fit, making it ideal for the winter season. It is a fashion essential suitable for any occasion, combining comfort and style. Despite its warmth, it remains lightweight, ensuring ease of wear throughout the day.",
@@ -1662,7 +1662,7 @@ let allData = [
   {
     code: "AAWSH-05",
     category: "Women",
-    name: "Sweatshirt",
+    name: "Breezy Luxe Sweatshirt",
     image: womenSH5,
     details:
       "This versatile sweatshirt is perfect for both casual and athletic wear, offering a classic style that suits a variety of occasions. Made from soft, breathable cotton fleece material, it ensures all-day comfort. The ribbed cuffs and hem provide a snug, secure fit, while the hassle-free pullover design with a round neck makes it easy to put on and take off. Additionally, its lightweight construction adds to its comfort and practicality.",
@@ -1671,7 +1671,7 @@ let allData = [
   {
     code: "AAWSH-06",
     category: "Women",
-    name: "Sweatshirt",
+    name: "Cloud Cover Sweatshirt",
     image: womenSH6,
     details:
       "This pullover is suitable for all seasons and features a printed pattern, adding a touch of style to your wardrobe. It is designed with a round neckline and a regular length, making it perfect for casual wear. The long sleeves provide additional comfort, ensuring a cozy fit throughout the day.",
@@ -1680,7 +1680,7 @@ let allData = [
   {
     code: "AAWSH-07",
     category: "Women",
-    name: "Sweatshirt",
+    name: "Velvet Vogue Sweatshirt",
     image: womenSH7,
     details:
       "This stylish women's sweatshirt is designed to create a lasting impression, crafted from a comfortable cotton blend. The trendy winter jacket features full sleeves and a hoodie, making it a must-have addition to your wardrobe. It pairs perfectly with jeans for a classic, everyday look, and its attractive design suits all body types. This stylish winter wear ensures both fashion and comfort, offering a cozy feeling when worn. Whether heading to a party, club, date, or casual meeting, this fashionable pullover will make you stand out and keep you comfortable throughout the day.",
@@ -1689,7 +1689,7 @@ let allData = [
   {
     code: "AAWSH-08",
     category: "Women",
-    name: "Sweatshirt",
+    name: "Everyday Ease Sweatshirt",
     image: womenSH8,
     details:
       "This sweatshirt comes in multiple colors, allowing you to choose the one that best suits your style. It features a hood with a drawstring for an adjustable fit, providing both comfort and functionality. For care, it is important to avoid ironing directly on the prints to preserve their quality.",
@@ -1698,7 +1698,7 @@ let allData = [
   {
     code: "AAWSH-09",
     category: "Women",
-    name: "Sweatshirt",
+    name: "Radiant Relax Sweatshirt",
     image: womenSH9,
     details:
       "This round neck full-sleeve sweatshirt is designed for winter wear, offering warmth and softness. It features a stylish print at the chest and comes in a pull-over style for easy wear. Pair it with joggers or denim and sneakers for an effortless, casual look that's perfect for everyday comfort and style.",
@@ -1707,7 +1707,7 @@ let allData = [
   {
     code: "AAWSH-010",
     category: "Women",
-    name: "Sweatshirt",
+    name: "Chill Luxe Sweatshirt",
     image: womenSH10,
     details:
       "This sweatshirt features a graphic pattern and a round neck, offering a regular fit for a comfortable, everyday wear. It is designed with ribbed details at the neck, sleeve cuffs, and bottom hem, adding extra comfort and a snug fit. Additionally, the side pockets provide functional storage and enhance the overall style of the sweatshirt.",
@@ -1716,7 +1716,7 @@ let allData = [
   {
     code: "AAWSH-011",
     category: "Women",
-    name: "Sweatshirt",
+    name: "Comfy Glow Sweatshirt",
     image: womenSH11,
     details:
       "This sweatshirt is crafted from soft fleece fabric, providing cozy comfort for all-day wear. The classic hooded design helps keep you warm on colder days, while the convenient front pockets offer storage for essentials or a place to keep your hands warm. Its versatile style makes it perfect for layering or wearing alone, whether you're heading out for a casual outing or lounging at home. Available in a range of sizes and colors, this sweatshirt caters to your personal style and fit preferences.",
@@ -1725,7 +1725,7 @@ let allData = [
   {
     code: "AAWSH-012",
     category: "Women",
-    name: "Sweatshirt",
+    name: "Timeless Cozy Sweatshirt",
     image: womenSH12,
     details:
       "This oversized hoodie offers a relaxed, comfortable fit, making it both stylish and cozy. The front features a striking graphic design of a figure surrounded by stars, adding a whimsical touch to the look. Made from soft and cozy fabric, it provides warmth and comfort throughout the day. The adjustable hood allows you to customize the fit to your liking. Its classic black color and unique print make it versatile, easily pairing with various bottoms for a casual, everyday style.",
@@ -1733,25 +1733,26 @@ let allData = [
   },
   {
     code: "AAWCT-01",
-    name: "Crop-Top",
+    name: "Easy Vibe Crop-Top",
     image: womenCT1,
     category: "Women",
     details:
       "This top is made from high-quality polyester fabric, ensuring durability and comfort. It features a round neck and short sleeves for a relaxed, casual fit. The all-over printed pattern adds a touch of style, while the white color provides a clean, timeless look. Designed to offer sophistication, this piece is suitable for women of all ages, making it a versatile addition to any wardrobe.",
-    fabric: "Polyester",
+    fabric: "Polyester+Cotton",
   },
+  
   {
     code: "AAWCT-02",
-    name: "Crop-Top",
+    name: "Chill Cut Crop-Top",
     image: womenCT2,
     category: "Women",
     details:
       "This top is made from high-quality polyester fabric, ensuring durability and comfort. It features a round neck and short sleeves for a relaxed, casual fit. The all-over printed pattern adds a touch of style, while the white color provides a clean, timeless look. Designed to offer sophistication, this piece is suitable for women of all ages, making it a versatile addition to any wardrobe.",
-    fabric: "Polyester",
+    fabric: "Polyester+Cotton",
   },
   {
     code: "AAWCT-03",
-    name: "Crop-Top",
+    name: "Casual Crush Crop-Top",
     image: womenCT3,
     category: "Women",
     details:
@@ -1760,7 +1761,7 @@ let allData = [
   },
   {
     code: "AAWCT-04",
-    name: "Crop-Top",
+    name: "Casual Canvas Crop-Top",
     image: womenCT4,
     category: "Women",
     details:
@@ -1769,7 +1770,7 @@ let allData = [
   },
   {
     code: "AAWCT-05",
-    name: "Crop-Top",
+    name: "Comfy Crop-Top",
     image: womenCT5,
     category: "Women",
     details:
@@ -1778,7 +1779,7 @@ let allData = [
   },
   {
     code: "AAWCT-06",
-    name: "Crop-Top",
+    name: "Urban Chic Crop-Top",
     image: womenCT6,
     category: "Women",
     details:
@@ -1787,7 +1788,7 @@ let allData = [
   },
   {
     code: "AAWCT-07",
-    name: "Crop-Top",
+    name: "Relaxed Radiance Crop-Top",
     image: womenCT7,
     category: "Women",
     details:
@@ -1796,7 +1797,7 @@ let allData = [
   },
   {
     code: "AAWCT-08",
-    name: "Crop-Top",
+    name: "Effortless Edge Crop-Top",
     image: womenCT8,
     category: "Women",
     details:
@@ -1805,7 +1806,7 @@ let allData = [
   },
   {
     code: "AAWCT-09",
-    name: "Crop-Top",
+    name: "Carefree Comfort Crop-Top",
     image: womenCT9,
     category: "Women",
     details:
@@ -1814,7 +1815,7 @@ let allData = [
   },
   {
     code: "AAWCT-010",
-    name: "Crop-Top",
+    name: "Cozy Cut Crop-Top",
     image: womenCT10,
     category: "Women",
     details:
@@ -1823,7 +1824,7 @@ let allData = [
   },
   {
     code: "AAWCT-011",
-    name: "Crop-Top",
+    name: "Chill Charm Crop-Top",
     image: womenCT11,
     category: "Women",
     details:
@@ -1832,7 +1833,7 @@ let allData = [
   },
   {
     code: "AAWCT-012",
-    name: "Crop-Top",
+    name: "Simple Stitch Crop-Top",
     image: womenCT12,
     category: "Women",
     details:
@@ -1843,7 +1844,7 @@ let allData = [
     code: "AAWS-01",
     category: "Women",
 
-    name: "Shorts",
+    name: "Summer Breeze Shorts",
 
     image: womenSHORT1,
     details:
@@ -1855,7 +1856,7 @@ let allData = [
     code: "AAWS-02",
     category: "Women",
 
-    name: "Shorts",
+    name: "Chill Vibe Shorts",
 
     image: womenSHORT2,
     details:
@@ -1867,7 +1868,7 @@ let allData = [
     code: "AAWS-03",
     category: "Women",
 
-    name: "Shorts",
+    name: "Easy Fit Shorts",
 
     image: womenSHORT3,
     details:
@@ -1879,7 +1880,7 @@ let allData = [
     code: "AAWS-04",
     category: "Women",
 
-    name: "Shorts",
+    name: "Beachy Bliss Shorts",
 
     image: womenSHORT4,
     details:
@@ -1891,7 +1892,7 @@ let allData = [
     code: "AAWS-05",
     category: "Women",
 
-    name: "Shorts",
+    name: "Cozy Cut Shorts",
 
     image: womenSHORT5,
     details:
@@ -1903,7 +1904,7 @@ let allData = [
     code: "AAWS-06",
     category: "Women",
 
-    name: "Shorts",
+    name: "Free Spirit Shorts",
 
     image: womenSHORT6,
     details:
@@ -1915,7 +1916,7 @@ let allData = [
     code: "AAWS-07",
     category: "Women",
 
-    name: "Shorts",
+    name: " Urban Escape Shorts",
 
     image: womenSHORT7,
     details:
@@ -1927,7 +1928,7 @@ let allData = [
     code: "AAWS-08",
     category: "Women",
 
-    name: "Shorts",
+    name: "Playful Hues Shorts",
 
     image: womenSHORT8,
     details:
@@ -1939,7 +1940,7 @@ let allData = [
     code: "AAWS-09",
     category: "Women",
 
-    name: "Shorts",
+    name: "Tropical Twist Shorts",
 
     image: womenSHORT9,
     details:
@@ -1951,7 +1952,7 @@ let allData = [
     code: "AAWS-010",
     category: "Women",
 
-    name: "Shorts",
+    name: "Effortless Ease Shorts",
 
     image: womenSHORT10,
     details:
@@ -1963,7 +1964,7 @@ let allData = [
     code: "AAWS-011",
     category: "Women",
 
-    name: "Shorts",
+    name: "Breezy Bliss Shorts",
 
     image: womenSHORT11,
     details:
@@ -1975,7 +1976,7 @@ let allData = [
     code: "AAWS-012",
     category: "Women",
 
-    name: "Shorts",
+    name: "Coastal Vibes Shorts",
 
     image: womenSHORT12,
     details:
@@ -1986,7 +1987,7 @@ let allData = [
     code: "AAWTS-01",
     category: "Women",
     image: womenTSHIRT1,
-    name: "T-Shirt",
+    name: "Chic Cotton T-Shirt",
     details:
       "This **regular-fit t-shirt** features a **round neckline** and **half sleeves**, offering both style and comfort. Perfect for your classic everyday look, it ensures ease of movement and a relaxed feel, making it an ideal choice for casual wear.",
     fabric: "Cotton Blend",
@@ -1995,7 +1996,7 @@ let allData = [
     code: "AAWTS-02",
     category: "Women",
     image: womenTSHIRT2,
-    name: "T-Shirt",
+    name: "Easy Glow T-Shirt",
     details:
       "This **unisex t-shirt** is designed for versatility and comfort, making it suitable for **casual, party, and daily wear**. Crafted from **180 GSM cotton-rich fabric**, it ensures a soft and breathable feel. The **regular fit** and **round neckline** provide a classic look, while the durable material supports **machine washing** for easy care. An essential addition to your wardrobe for timeless style and practicality.",
     fabric: "180 GSM Cotton Rich Fabric",
@@ -2004,7 +2005,7 @@ let allData = [
     code: "AAWTS-03",
     category: "Women",
     image: womenTSHIRT3,
-    name: "T-Shirt",
+    name: "Breezy Threads T-Shirt",
     details:
       "This relaxed-fit t-shirt is designed to provide both comfort and style, making it a versatile choice for any season and occasion. Whether it's evening casual wear, daily outings, work, or parties, it pairs effortlessly with leggings, jeans, skirts, or shorts to create a fantastic outfit for spring, fall, winter, or summer. Crafted with a commitment to quality, every step of the manufacturing process is carefully monitored by our quality control team to ensure the best product reaches you. To maintain its durability and long-lasting appeal, this t-shirt is best cared for with hand washing.",
     fabric: "Cooton Blend",
@@ -2013,7 +2014,7 @@ let allData = [
     code: "AAWTS-04",
     category: "Women",
     image: womenTSHIRT4,
-    name: "T-Shirt",
+    name: "Urban Basic T-Shirt",
     details:
       "This t-shirt is made from **pure cotton** and features a **yoga-inspired printed pattern** with **half sleeves**, available in a single pack. It is designed to provide a **trendy yet casual look**, with durable stitching and a high-quality finish, making it a must-have addition to your wardrobe. Ideal for **girls**, this t-shirt is perfect for **regular wear** and is particularly suited for yoga, aligning with its central theme. For maintenance, avoid bleaching; wash with similar colors using a cold machine wash and dry it in the shade. Proudly **crafted in India**, this t-shirt reflects exceptional craftsmanship. To ensure a perfect fit, please refer to the **size chart** provided in the images section, as all products follow standard sizing guidelines.",
     fabric: "Cotton",
@@ -2022,7 +2023,7 @@ let allData = [
     code: "AAWTS-05",
     category: "Women",
     image: womenTSHIRT5,
-    name: "T-Shirt",
+    name: "Vivid Vibe T-Shirt",
     details:
       "This t-shirt is crafted from the **softest fabric** available, offering unparalleled comfort for everyday wear. The **breathable material** makes it ideal for the Indian climate, ensuring you stay comfortable even in warm weather. Designed for **versatile wear**, it is perfect for both formal and casual occasions, providing a polished and stylish appearance. Its **year-round usability** adds practicality, making it suitable for all seasons. The fabric is **bio-washed**, enhancing its softness and durability, while its **lint-proof quality** ensures a clean and neat look, even after repeated use.",
     fabric: "Cotton",
@@ -2031,7 +2032,7 @@ let allData = [
     code: "AAWTS-06",
     category: "Women",
     image: womenTSHIRT6,
-    name: "T-Shirt",
+    name: "Laidback Luxe T-Shirt",
     details:
       "This t-shirt is designed with a **regular fit** and **half sleeves**, offering a comfortable and stylish look. Made from **100% pure cotton**, it is an **eco-friendly** choice that provides both comfort and sustainability. Available in a refreshing **sky blue** color, it gives a **trendy yet casual look** perfect for summer. The t-shirt features **durable stitching** and a **quality finish**, making it a must-have for the season. For care, **do not bleach**, wash with similar colors, machine wash cold, and dry in the shade to maintain its quality and appearance.",
     fabric: "100% Cotton",
@@ -2040,7 +2041,7 @@ let allData = [
     code: "AAWTS-07",
     category: "Women",
     image: womenTSHIRT7,
-    name: "T-Shirt",
+    name: "Bold Comfort T-Shirt",
     details:
       "This t-shirt is made from **100% cotton**, offering a soft and breathable fabric for all-day comfort. It features a **round neck** and a **collarless** design, providing a clean and casual look. The **solid pattern** adds versatility, while the **short sleeves** ensure ease of movement, making it suitable for casual occasions. With a **regular fit**, this t-shirt is perfect for everyday wear. The **printed design** adds a touch of personality, making it a stylish choice for any casual setting.",
     fabric: "100% Pure Cotton (Eco Friendly)",
@@ -2049,16 +2050,16 @@ let allData = [
     code: "AAWTS-08",
     category: "Women",
     image: womenTSHIRT8,
-    name: "T-Shirt",
+    name: "Effortless Edge T-Shirt",
     details:
       "These regular-fit t-shirts feature **stylish graphic prints** that add a trendy flair to your casual look. Made from high-quality materials, they offer a **comfortable fit**, ensuring you stay relaxed and at ease throughout the day. These graphic tees are a **versatile wardrobe staple**, easily paired with jeans, shorts, or skirts for a chic, effortless ensemble. Available in a range of **vibrant colours**, they allow you to express your personal style. Additionally, they are **machine-washable**, making them easy to care for while maintaining their long-lasting quality.",
-    fabric: "100% Cotton",
+    fabric: "Cotton Fleece",
   },
   {
     code: "AAWTS-09",
     category: "Women",
     image: womenTSHIRT9,
-    name: "T-Shirt",
+    name: "Comfy Casual T-Shirt",
     details:
       "These regular-fit t-shirts are designed with **stylish graphic prints** that add a touch of flair to your casual look. Made from high-quality materials, they provide a **comfortable fit** for all-day wear, ensuring relaxation and ease. A **versatile wardrobe staple**, these graphic tees can be easily paired with jeans, shorts, or skirts for a chic, effortless ensemble. Available in a variety of **vibrant colours**, they offer the perfect way to express your personal style. Additionally, these t-shirts are **machine-washable**, allowing for hassle-free maintenance and ensuring long-lasting quality.",
     fabric: "Cotton Blend",
@@ -2067,34 +2068,34 @@ let allData = [
     code: "AAWTS-010",
     category: "Women",
     image: womenTSHIRT10,
-    name: "T-Shirt",
+    name: "Simple Radianc T-Shirt",
     fabric:
       "These regular-fit t-shirts feature **stylish graphic prints** that add a trendy touch to your casual look. Crafted from high-quality materials, they offer a **comfortable fit** for all-day wear. A true **versatile wardrobe staple**, these tees can be paired effortlessly with jeans, shorts, or skirts, creating a chic and easygoing ensemble. Available in a variety of **vibrant colours**, these t-shirts provide the perfect way to express your personal style. Plus, they are **machine-washable**, ensuring easy care and long-lasting quality.",
-    details: "100% Cotton",
+    details: "Cotton Fleece",
   },
   {
     code: "AAWTS-011",
     category: "Women",
     image: womenTSHIRT11,
-    name: "T-Shirt",
+    name: "Cozy Fit T-Shirt",
     details:
       "This **oversized fit t-shirt** features a bold **MALIBU BEACH** slogan, perfect for a relaxed, beach-inspired look. The loose fit provides comfort and freedom of movement, making it ideal for casual wear or lounging. With its stylish design and iconic slogan, this t-shirt captures the essence of laid-back summer vibes.",
-    fabric: "100% Cotton",
+    fabric: "Cotton Fleece",
   },
   {
     code: "AAWTS-012",
     category: "Women",
     image: womenTSHIRT12,
-    name: "T-Shirt",
+    name: "Simply Soft T-Shirt",
     details:
       "This t-shirt is made from a **cotton blend**, offering a soft and comfortable feel. It features a convenient **pull-on closure** for easy wear and is **machine washable**, making it low maintenance and durable. The blend of materials ensures a breathable and versatile fit, perfect for casual wear.",
-    fabric: "Cotton",
+    fabric: "Cotton Blend",
   },
   {
     code: "AAWPS-01",
     category: "Women",
     image: womePOLOS1,
-    name: "Polo-Shirt",
+    name: "Luxe Collar Polo-Shirt",
     details:
       "Crafted from lightweight, moisture-wicking, and quick-dry **UPF 50+ material**, BGOWATU women's golf polo shirts provide maximum sun protection during outdoor activities. Designed with a **stylish collared v-neck**, these shirts feature no zipper or buttons, preventing skin irritation while slimming the face and neckline. The **4-way stretch** fabric allows for a natural range of motion, ensuring comfort during active movements. The **curved waist** fits perfectly, highlighting the female silhouette. These versatile **collared polos** are ideal for golf, tennis, running, walking, hiking, badminton, yoga, jogging, gym sessions, or daily wear. They can be paired with skirts, pants, or shorts, offering a unique and fashionable look.",
     fabric: "92% Polyester, 8% Elastane",
@@ -2103,7 +2104,7 @@ let allData = [
     code: "AAWPS-02",
     category: "Women",
     image: womePOLOS2,
-    name: "Polo-Shirt",
+    name: "Urban Polo-Shirt",
     details:
       "Crafted from lightweight, moisture-wicking, and quick-dry **UPF 50+ material**, BGOWATU women's golf polo shirts provide maximum sun protection during outdoor activities. Designed with a **stylish collared v-neck**, these shirts feature no zipper or buttons, preventing skin irritation while slimming the face and neckline. The **4-way stretch** fabric allows for a natural range of motion, ensuring comfort during active movements. The **curved waist** fits perfectly, highlighting the female silhouette. These versatile **collared polos** are ideal for golf, tennis, running, walking, hiking, badminton, yoga, jogging, gym sessions, or daily wear. They can be paired with skirts, pants, or shorts, offering a unique and fashionable look.",
     fabric: "95% Polyester, 5% Spandex",
@@ -2112,7 +2113,7 @@ let allData = [
     code: "AAWPS-03",
     category: "Women",
     image: womePOLOS3,
-    name: "Polo-Shirt",
+    name: "Classic Edge Polo-Shirt",
     details:
       "Perfect for a variety of activities, this moisture-wicking golf polo is suitable for sports like golf, tennis, hiking, running, gym workouts, and other outdoor exercises. It can also be worn casually as a top during leisure time. The shirt pairs easily with golf shorts, tennis skorts, yoga pants, or other workout skirts, and can even be matched with jeans or leisure pants for a more casual look.",
     fabric: "95% Polyester, 5% Spandex",
@@ -2121,7 +2122,7 @@ let allData = [
     code: "AAWPS-04",
     category: "Women",
     image: womePOLOS4,
-    name: "Polo-Shirt",
+    name: "Polo Perfection Polo-Shirt",
     details:
       "This V-neck and lapel collar design is crafted to accentuate your neck and elongate your body proportions, while the hem with slits allows for more freedom of movement. Made from lightweight, breathable fabric that includes 4-way stretch, this golf shirt provides ultimate comfort whether you're being active or relaxing.",
     fabric: "85% Polyester, 15% Spandex",
@@ -2130,7 +2131,7 @@ let allData = [
     code: "AAWPS-05",
     category: "Women",
     image: womePOLOS5,
-    name: "Polo-Shirt",
+    name: "Refined Fit Polo-Shirt",
     details:
       "The sleeveless design of this polo shirt offers flexibility and keeps you cool, while the collar adds a touch of style and professionalism to your look. This fashionable sleeveless golf polo shirt is gaining popularity this year, featuring an updated modern design that elevates the classic polo style. Designed with a sleek, collarless v-neck placket, this women’s performance golf shirt is more comfortable than traditional polos, offering a stylish yet functional alternative. The breathable fabric makes this polo perfect for any occasion, whether you're at a casual outing or participating in sports. Ideal for golfing, tennis, workouts, running, fishing, jogging, gym sessions, hiking, or any of your favorite sports training, this versatile polo shirt combines style, comfort, and performance.",
     fabric: "85% Polyester, 15% Spandex.",
@@ -2139,7 +2140,7 @@ let allData = [
     code: "AAWPS-06",
     category: "Women",
     image: womePOLOS6,
-    name: "Polo-Shirt",
+    name: "Casual Collar Polo-Shirt",
     details:
       "Crafted from lightweight, moisture-wicking, and quick-dry **UPF 50+ material**, BGOWATU women's golf polo shirts provide maximum sun protection during outdoor activities. Designed with a **stylish collared v-neck**, these shirts feature no zipper or buttons, preventing skin irritation while slimming the face and neckline. The **4-way stretch** fabric allows for a natural range of motion, ensuring comfort during active movements. The **curved waist** fits perfectly, highlighting the female silhouette. These versatile **collared polos** are ideal for golf, tennis, running, walking, hiking, badminton, yoga, jogging, gym sessions, or daily wear. They can be paired with skirts, pants, or shorts, offering a unique and fashionable look.",
     fabric: "95% Polyester, 5% Spandex",
@@ -2157,7 +2158,7 @@ let allData = [
     code: "AAWPS-08",
     category: "Women",
     image: womePOLOS8,
-    name: "Polo-Shirt",
+    name: "Sporty Elegance Polo-Shirt",
     details:
       "Women’s golf shirts offer the perfect balance between traditional style and fashion, designed with trendy prints to suit any occasion. Made with unique moisture-wicking technology, these shirts keep you cool and dry, making them great for both athletic and daily wear in warm weather. The women’s polo shirt features a slim waistline for a flattering, slim and sexy look, while the short sleeves and 3-button design create a classic yet trendy tennis shirt. The polo neck design offers extra coverage for the sensitive neck area, effectively preventing sunburn. These shirts are easy to match, making them a versatile choice for a variety of outfits. The fashionable pullover athletic golf tops pair well with skirts, shorts, jeans, or pants, and can be layered with under-shirts, crop tops, jackets, or coats for a chic, laid-back look. This effortless style never goes out of fashion, making it a timeless addition to any wardrobe. Our short sleeve tennis shirts for women are ideal for both indoor and outdoor activities, offering the perfect combination of style and functionality. They are perfect for tennis, golf, horse riding, jogging, outdoor exercise, gym workouts, everyday wear, running, and many other occasions.",
     fabric: "100% Polyester",
@@ -2166,7 +2167,7 @@ let allData = [
     code: "AAWPS-09",
     category: "Women",
     image: womePOLOS9,
-    name: "Polo-Shirt",
+    name: "Active Allure Polo-Shirt",
     details:
       "The Women's 70s Retro Flowers short-sleeve golf shirt is made of comfortable moisture-wicking and quick-drying polyester material, offering a slim fit that enhances movement and comfort without being too tight. These women's golf polo shirts are perfect for a variety of activities, including golf, tennis, jogging, sports, gym, yoga, and casual wear, making them a great choice for daily wear, work, office, parties, or school. The three-button placket design, along with a slim waist and flattering body shape, makes it easy to pair with various women's skirts, jeans, casual pants, golf skirts, golf shorts, yoga shorts, swimming shorts, and beach shorts. The women's collared tennis shirts come in a range of fashionable designs, blending tradition with modern style, suitable for playing sports, attending theme parties, or celebrating holidays like Valentine's Day, Christmas, Halloween, and Independence Day. Available in 6 sizes, the 70s Retro Flowers women's polo shirt is designed to fit most people, and customers can refer to the provided size chart for the best fit. For any questions, feel free to contact customer support.",
     fabric: "100% Polyester",
@@ -2175,7 +2176,7 @@ let allData = [
     code: "AAWPS-010",
     category: "Women",
     image: womePOLOS10,
-    name: "Polo-Shirt",
+    name: "Timeless Touch Polo-Shirt",
     details:
       "The Women's 70s Retro Flowers short-sleeve golf shirt is made of comfortable moisture-wicking and quick-drying polyester material, offering a slim fit that enhances movement and comfort without being too tight. These women's golf polo shirts are perfect for a variety of activities, including golf, tennis, jogging, sports, gym, yoga, and casual wear, making them a great choice for daily wear, work, office, parties, or school. The three-button placket design, along with a slim waist and flattering body shape, makes it easy to pair with various women's skirts, jeans, casual pants, golf skirts, golf shorts, yoga shorts, swimming shorts, and beach shorts. The women's collared tennis shirts come in a range of fashionable designs, blending tradition with modern style, suitable for playing sports, attending theme parties, or celebrating holidays like Valentine's Day, Christmas, Halloween, and Independence Day. Available in 6 sizes, the 70s Retro Flowers women's polo shirt is designed to fit most people, and customers can refer to the provided size chart for the best fit. For any questions, feel free to contact customer support.",
     fabric: "100% Polyester",
@@ -2184,7 +2185,7 @@ let allData = [
     code: "AAWPS-011",
     category: "Women",
     image: womePOLOS11,
-    name: "Polo-Shirt",
+    name: "Polished Play Polo-Shirt",
     details:
       "The Women's 70s Retro Flowers short-sleeve golf shirt is made of comfortable moisture-wicking and quick-drying polyester material, offering a slim fit that enhances movement and comfort without being too tight. These women's golf polo shirts are perfect for a variety of activities, including golf, tennis, jogging, sports, gym, yoga, and casual wear, making them a great choice for daily wear, work, office, parties, or school. The three-button placket design, along with a slim waist and flattering body shape, makes it easy to pair with various women's skirts, jeans, casual pants, golf skirts, golf shorts, yoga shorts, swimming shorts, and beach shorts. The women's collared tennis shirts come in a range of fashionable designs, blending tradition with modern style, suitable for playing sports, attending theme parties, or celebrating holidays like Valentine's Day, Christmas, Halloween, and Independence Day. Available in 6 sizes, the 70s Retro Flowers women's polo shirt is designed to fit most people, and customers can refer to the provided size chart for the best fit. For any questions, feel free to contact customer support.",
     fabric: "100% Polyester",
@@ -2193,7 +2194,7 @@ let allData = [
     code: "AAWPS-012",
     category: "Women",
     image: womePOLOS12,
-    name: "Polo-Shirt",
+    name: "Elegant Sport Polo-Shirt",
     details:
       "Women’s golf shirts are designed with trendy prints, offering the perfect balance between traditional style and fashion. Made with unique moisture-wicking technology, they keep you cool and dry in warm weather, making them great for both athletic and daily wear. These women’s polo shirts feature a slim waistline for a flattering look, providing a slim and sexy fit with a comfortable feel. The short sleeves and 3-button design create a trendy yet classic tennis shirt, while the polo neck offers extra coverage to protect your sensitive neck from sunburn. The fashionable pullover athletic workout golf tops are easy to style, matching well with skirts, shorts, jeans, or pants, and can be layered with your favorite under-shirts, crop tops, jackets, or coats for a chic, laid-back look that never goes out of style. Ideal for both indoor and outdoor activities, these shirts are perfect for tennis, golf, horse riding, jogging, outdoor exercise, gym workouts, everyday wear, running, or any other occasion. These women’s polo shirts are easy to care for; simply hand wash or machine wash in cold water, wash separately, hang dry, and avoid bleaching. Available in sizes S, M, L, XL, XXL, and 3XL, be sure to refer to the provided size chart for the perfect fit.",
     fabric: "100% Polyster",
@@ -2202,7 +2203,7 @@ let allData = [
     code: "AAWL-01",
     category: "Women",
     image: womenLEGGING1,
-    name: "Legging",
+    name: "SpeedStretch Legging",
     details:
       "These black leggings for women feature big side pockets that can securely hold cards and smartphones during workouts, complemented by a flat-edge design to prevent curling. The leggings also offer a 4-way stretch, maximizing mobility for various activities. Designed with a high waist and tummy control, they elastically shape the body, making them a versatile companion for different outfit styles, adding a sexy and fashionable touch. The non-see-through fabric, coupled with a quick-dry technique, ensures sweat-wicking, breathability, and eliminates sweat line issues, enhancing comfort during wear. Suitable for yoga, biking, volleyball, fitness, weightlifting, jogging, cycling, or everyday casual use, these compression leggings cater to a variety of occasions while providing optimal support and style.",
     fabric: "73% Polyester, 27% Spandex",
@@ -2210,7 +2211,7 @@ let allData = [
   {
     code: "AAWL-02",
     category: "Women",
-    name: "Legging",
+    name: "PowerFlex Legging",
     image: womenLEGGING2,
     details:
       "Crafted from subtle, seamless fabric, these leggings provide exceptional comfort and ease with every movement, ensuring they are squat-proof and lightweight to support all gym exercises effortlessly. Featuring a high-rise ribbed waistband and a camo pattern, they elegantly contour the body shape, while the ruched butt design enhances the effect of butt lifting for a flattering look. Backed by a quality guarantee, if you are not satisfied with the product, you can reach out to us for a replacement or a full refund, ensuring your complete satisfaction.",
@@ -2219,7 +2220,7 @@ let allData = [
   {
     code: "AAWL-03",
     category: "Women",
-    name: "Legging",
+    name: "ActivePulse Legging",
     image: womenLEGGING3,
     details:
       "These leggings are crafted from a soft blend of materials with seamless knitted fabric and moisture-wicking properties, ensuring comfort and dryness during workouts. The seamless scrunch design features a ruched detail that naturally shapes and lifts the booty, complemented by thigh contour shadowing for added definition. With a high waist and a unique design, these leggings provide excellent waist support, tummy control, and a secure fit that won't slip during activities. Perfect for gym sessions, yoga, running, or any type of workout, they can also be paired with activewear tops for a casual look. Designed for both comfort and functionality, these seamless butt-lifting leggings allow you to move with confidence and ease during any activity.",
@@ -2228,7 +2229,7 @@ let allData = [
   {
     code: "AAWL-04",
     category: "Women",
-    name: "Legging",
+    name: "FlexForce Legging",
     image: womenLEGGING4,
     details:
       "These full-length leggings, with a 28-inch inseam, are specifically designed for yoga and workouts, offering the perfect blend of comfort and functionality. Made from 4-way stretch fabric, they allow unrestricted movement and provide maximum comfort, while the moisture-wicking material ensures you stay dry and comfortable during every pose and activity. Featuring a high-rise design with a wide waistband, they offer full coverage, prevent muffin tops, and stay securely in place without falling down. Equipped with two large side pockets, these leggings provide ample space for essentials like your smartphone and keys, ensuring they remain stable during workouts. Additionally, the squat-proof, non-see-through fabric boosts your confidence, while the gusseted crotch and chafe-free construction enhance freedom of movement for a seamless workout experience.",
@@ -2237,7 +2238,7 @@ let allData = [
   {
     code: "AAWL-05",
     category: "Women",
-    name: "Legging",
+    name: "VictoryFit Legging",
     image: womenLEGGING5,
     detaials:
       "Previously part of the Amazon Essentials line, this product has transitioned to the RAYPOSE Brand while maintaining the same formulation, size, and quality. These black leggings feature two large side pockets, ideal for securely holding cards and smartphones during workouts. Designed with a flat-edge structure to prevent curling, they incorporate 4-way stretch fabric for unrestricted motion. The high waist and tummy control design elegantly shape the body, making these leggings a versatile and fashionable companion for various outfits. With a non-see-through, quick-dry fabric, they ensure sweat-wicking, breathability, and eliminate sweat line concerns, delivering superior comfort. Perfect for yoga, biking, volleyball, fitness, weightlifting, jogging, cycling, or casual everyday use, these compression leggings blend style and functionality for any occasion.",
@@ -2246,7 +2247,7 @@ let allData = [
   {
     code: "AAWL-06",
     category: "Women",
-    name: "Legging",
+    name: "SpeedStride Legging",
     image: womenLEGGING6,
     details:
       "Crafted from a highly stretchy and breathable fabric, these leggings provide a squat-proof, four-way stretch experience with sweat-wicking and tummy control features. Their high-waist design offers compression, support, and an incredibly soft, buttery feel, ensuring both comfort and functionality. The flare gym leggings feature a sexy high waistband, perfect for combining style with practicality. Ideal for running, workouts, gym sessions, yoga, or casual daily wear, these leggings deliver versatility for various occasions. Designed with a scrunch butt lift effect, they enhance your curves while boosting confidence and charm. The unique back pocket design ensures secure storage for your belongings. For the best fit, it is recommended to size up if you're between sizes.",
@@ -2255,7 +2256,7 @@ let allData = [
   {
     code: "AAWL-07",
     category: "Women",
-    name: "Legging",
+    name: "EnduraLegs Legging",
     image: womenLEGGING7,
     details:
       "These leggings feature a comfortable high waist with a wide elastic waistband that covers the navel, offering excellent tummy control and a secure fit, making them ideal for capri-style workouts and fitness sessions. The ultra-stretch fit, crafted from super soft, skin-friendly material, provides thickness with breathability, ensuring a non-see-through design. The moisture-wicking, four-way stretch fabric delivers both compression and support, while a gusseted crotch maximizes free movement, and interlock seams minimize chafing, making these leggings perfect for yoga or workouts. Designed for daily wear, the nylon fabric offers a natural feel, doubling as shapewear to keep you hugged in and looking slim. With two spacious side pockets and a hidden inner pocket in the back waistband, these leggings allow you to carry essentials like your phone, wallet, sweat towel, or keys conveniently during workouts.",
@@ -2264,7 +2265,7 @@ let allData = [
   {
     code: "AAWL-08",
     category: "Women",
-    name: "Legging",
+    name: "MomentumFlex Legging",
     image: womenLEGGING8,
     details:
       "Featuring a high-waist seamless waistband with a double-layer design, they provide exceptional tummy control and ensure a secure fit that won't slip during activities. These breathable leggings double as shapewear, contouring your curves and streamlining your shape, whether you're running, lifting, jumping, or lunging. The Scotland tartan check plaid pattern adds a unique and fashionable twist, making them ideal for the Christmas and St. Patrick's Day holidays. These leggings keep you on trend while offering a distinct style, setting them apart from ordinary solid-color yoga pants.",
@@ -2273,7 +2274,7 @@ let allData = [
   {
     code: "AAWL-09",
     category: "Women",
-    name: "Legging",
+    name: "ProMotion Legging",
     image: womenLEGGING9,
     details:
       "Featuring a high-waist seamless waistband with a double-layer design, they provide exceptional tummy control and ensure a secure fit that won't slip during activities. These breathable leggings double as shapewear, contouring your curves and streamlining your shape, whether you're running, lifting, jumping, or lunging. The Scotland tartan check plaid pattern adds a unique and fashionable twist, making them ideal for the Christmas and St. Patrick's Day holidays. These leggings keep you on trend while offering a distinct style, setting them apart from ordinary solid-color yoga pants.",
@@ -2282,7 +2283,7 @@ let allData = [
   {
     code: "AAWL-010",
     category: "Women",
-    name: "Legging",
+    name: "RacerEdge Legging",
     image: womenLEGGING10,
     details:
       "These leggings feature a small pocket discreetly placed inside the waistband, perfect for storing keys, money, or other small essentials securely. Designed with a mid-rise fit that sits just below the belly button, they offer a comfortable and stylish option for everyday wear or workouts, providing both practicality and modern appeal.",
@@ -2291,7 +2292,7 @@ let allData = [
   {
     code: "AAWL-011",
     category: "Women",
-    name: "Legging",
+    name: "AthletiCore Legging",
     image: womenLEGGING11,
     details:
       "Introducing the last pair of leggings you'll ever need! We've carefully selected the highest quality materials to ensure maximum comfort, breathability, and durability. These leggings offer the perfect balance of quality and affordability. Ideal for workouts, running, sports, exercise, weightlifting, Crossfit, or leisure activities, these women's patriotic stars and stripes workout pants are designed to wick moisture away from the body, keeping you comfortable and looking great. Crafted from premium fabric, they are easy to clean with consistent sizing, made from 100% cotton, and feature flatlock stitching to reduce chafing, along with a double-needle hem and a hidden pocket in the waistband for added convenience. Machine washable (cold) and tumble dry low for easy care.",
@@ -2300,7 +2301,7 @@ let allData = [
   {
     code: "AAWL-012",
     category: "Women",
-    name: "Legging",
+    name: "FlexRush Legging",
     image: womenLEGGING12,
     details:
       "Introducing the last pair of leggings you'll ever need! We've carefully selected the highest quality materials to ensure maximum comfort, breathability, and durability. These leggings offer the perfect balance of quality and affordability. Ideal for workouts, running, sports, exercise, weightlifting, Crossfit, or leisure activities, these women's patriotic stars and stripes workout pants are designed to wick moisture away from the body, keeping you comfortable and looking great. Crafted from premium fabric, they are easy to clean with consistent sizing, made from 100% cotton, and feature flatlock stitching to reduce chafing, along with a double-needle hem and a hidden pocket in the waistband for added convenience. Machine washable (cold) and tumble dry low for easy care.",
@@ -2311,7 +2312,7 @@ let allData = [
     code: "AAWTRS-01",
     category: "Women",
     image: womenTS1,
-    name: "Tracksuit",
+    name: "ComfyFit Tracksuit",
     details:
       "This women's tracksuit combines style, comfort, and functionality, perfect for workouts or casual outings. Made from soft, breathable fabric, it provides flexibility and moisture-wicking properties. The sleek design offers a flattering fit, while the elastic waistband and cuffs ensure a secure, comfortable feel. Ideal for active lifestyles.",
     fabric: "96% Polyester 4% Elastane",
@@ -2320,7 +2321,7 @@ let allData = [
     code: "AAWTRS-02",
     category: "Women",
     image: womenTS2,
-    name: "Tracksuit",
+    name: "EasyStride Tracksuit",
     details:
       "This women's tracksuit combines style, comfort, and functionality, perfect for workouts or casual outings. Made from soft, breathable fabric, it provides flexibility and moisture-wicking properties. The sleek design offers a flattering fit, while the elastic waistband and cuffs ensure a secure, comfortable feel. Ideal for active lifestyles.",
     fabric: "96% Polyester 4% Elastane",
@@ -2329,7 +2330,7 @@ let allData = [
     code: "AAWTRS-03",
     category: "Women",
     image: womenTS3,
-    name: "Tracksuit",
+    name: "ChillGear Tracksuit",
     details:
       "This women's tracksuit combines style, comfort, and functionality, perfect for workouts or casual outings. Made from soft, breathable fabric, it provides flexibility and moisture-wicking properties. The sleek design offers a flattering fit, while the elastic waistband and cuffs ensure a secure, comfortable feel. Ideal for active lifestyles.",
     fabric: "96%Poyester/4%Elastane",
@@ -2338,7 +2339,7 @@ let allData = [
     code: "AAWTRS-04",
     category: "Women",
     image: womenTS4,
-    name: "Tracksuit",
+    name: "RelaxTrack Tracksuit",
     details:
       "This women's tracksuit combines style, comfort, and functionality, perfect for workouts or casual outings. Made from soft, breathable fabric, it provides flexibility and moisture-wicking properties. The sleek design offers a flattering fit, while the elastic waistband and cuffs ensure a secure, comfortable feel. Ideal for active lifestyles.",
     fabric: "96% Polyester 4% Elastane",
@@ -2347,7 +2348,7 @@ let allData = [
     code: "AAWTRS-05",
     category: "Women",
     image: womenTS5,
-    name: "Tracksuit",
+    name: "UrbanEase Tracksuit",
     details:
       "This women's tracksuit combines style, comfort, and functionality, perfect for workouts or casual outings. Made from soft, breathable fabric, it provides flexibility and moisture-wicking properties. The sleek design offers a flattering fit, while the elastic waistband and cuffs ensure a secure, comfortable feel. Ideal for active lifestyles.",
     fabric: "96% Polyester 4% Elastane",
@@ -2356,7 +2357,7 @@ let allData = [
     code: "AAWTRS-06",
     category: "Women",
     image: womenTS6,
-    name: "Tracksuit",
+    name: "CasualMotion Tracksuit",
     details:
       "This women's tracksuit combines style, comfort, and functionality, perfect for workouts or casual outings. Made from soft, breathable fabric, it provides flexibility and moisture-wicking properties. The sleek design offers a flattering fit, while the elastic waistband and cuffs ensure a secure, comfortable feel. Ideal for active lifestyles.",
     fabric: "96% Polyester 4% Elastane",
@@ -2365,7 +2366,7 @@ let allData = [
     code: "AAWTRS-07",
     category: "Women",
     image: womenTS7,
-    name: "Tracksuit",
+    name: "RelaxFit Tracksuit",
     details:
       "This women's tracksuit combines style, comfort, and functionality, perfect for workouts or casual outings. Made from soft, breathable fabric, it provides flexibility and moisture-wicking properties. The sleek design offers a flattering fit, while the elastic waistband and cuffs ensure a secure, comfortable feel. Ideal for active lifestyles.",
     fabric: "96% Polyester 4% Elastane",
@@ -2374,7 +2375,7 @@ let allData = [
     code: "AAWTRS-08",
     category: "Women",
     image: womenTS8,
-    name: "Tracksuit",
+    name: "CozyRunner Tracksuit",
     details:
       "This women's tracksuit combines style, comfort, and functionality, perfect for workouts or casual outings. Made from soft, breathable fabric, it provides flexibility and moisture-wicking properties. The sleek design offers a flattering fit, while the elastic waistband and cuffs ensure a secure, comfortable feel. Ideal for active lifestyles.",
     fabric: "96% Polyester 4% Elastane",
@@ -2392,7 +2393,7 @@ let allData = [
     code: "AAWTRS-010",
     category: "Women",
     image: womenTS10,
-    name: "Tracksuit",
+    name: "LeisureLine Tracksuit",
     details:
       "This women's tracksuit combines style, comfort, and functionality, perfect for workouts or casual outings. Made from soft, breathable fabric, it provides flexibility and moisture-wicking properties. The sleek design offers a flattering fit, while the elastic waistband and cuffs ensure a secure, comfortable feel. Ideal for active lifestyles.",
     fabric: "96% Polyester 4% Elastane",
@@ -2401,7 +2402,7 @@ let allData = [
     code: "AAWTRS-011",
     category: "Women",
     image: womenTS11,
-    name: "Tracksuit",
+    name: "CasualVibe Tracksuit",
     details:
       "This women's tracksuit combines style, comfort, and functionality, perfect for workouts or casual outings. Made from soft, breathable fabric, it provides flexibility and moisture-wicking properties. The sleek design offers a flattering fit, while the elastic waistband and cuffs ensure a secure, comfortable feel. Ideal for active lifestyles.",
     fabric: "96% Polyester 4% Elastane",
@@ -2410,7 +2411,7 @@ let allData = [
     code: "AAWTRS-012",
     category: "Women",
     image: womenTS12,
-    name: "Tracksuit",
+    name: "ChillFlex Tracksuit",
     details:
       "This women's tracksuit combines style, comfort, and functionality, perfect for workouts or casual outings. Made from soft, breathable fabric, it provides flexibility and moisture-wicking properties. The sleek design offers a flattering fit, while the elastic waistband and cuffs ensure a secure, comfortable feel. Ideal for active lifestyles.",
     fabric: "96% Polyester 4% Elastane",
@@ -2418,7 +2419,7 @@ let allData = [
   {
     code: "AAJPF-01",
     category: "Jackets",
-    name: "Puffer-Jacket",
+    name: "FrostGuard Puffer-Jacket",
     image: jacketPUFFY1,
     details:
       "The Winter Puffer Jacket is the ultimate coat, offering exceptional protection against the elements. Crafted with precision, this lightly padded bubble coat features windproof and water-resistant fabric, ensuring reliable defense against light showers and cold winds. Designed for functionality, the jacket includes a stand-up collar for added warmth, a front zipper closure for convenience, and an elasticized drawcord at the hem for a customizable fit. With flap side pockets secured by Velcro fasteners and an additional inside pocket for valuables, it combines smart storage solutions with practical design. The timeless style makes it perfect for urban and outdoor adventures, while the comfortable lining enhances coziness on chilly days. Versatile and fashionable, the Winter Puffer Jacket blends style, functionality, and comfort, making it an essential addition to any wardrobe.",
@@ -2428,7 +2429,7 @@ let allData = [
   {
     code: "AAJPF-02",
     category: "Jackets",
-    name: "Puffer-Jacket",
+    name: "ChillShield Puffer-Jacket",
     image: jacketPUFFY2,
     details:
       "The Winter Puffer Jacket is the ultimate coat, offering exceptional protection against the elements. Crafted with precision, this lightly padded bubble coat features windproof and water-resistant fabric, ensuring reliable defense against light showers and cold winds. Designed for functionality, the jacket includes a stand-up collar for added warmth, a front zipper closure for convenience, and an elasticized drawcord at the hem for a customizable fit. With flap side pockets secured by Velcro fasteners and an additional inside pocket for valuables, it combines smart storage solutions with practical design. The timeless style makes it perfect for urban and outdoor adventures, while the comfortable lining enhances coziness on chilly days. Versatile and fashionable, the Winter Puffer Jacket blends style, functionality, and comfort, making it an essential addition to any wardrobe.",
@@ -2438,7 +2439,7 @@ let allData = [
   {
     code: "AAJPF-03",
     category: "Jackets",
-    name: "Puffer-Jacket",
+    name: "SnowBreeze Puffer-Jacket",
     image: jacketPUFFY3,
     details:
       "The Winter Puffer Jacket is the ultimate coat, offering exceptional protection against the elements. Crafted with precision, this lightly padded bubble coat features windproof and water-resistant fabric, ensuring reliable defense against light showers and cold winds. Designed for functionality, the jacket includes a stand-up collar for added warmth, a front zipper closure for convenience, and an elasticized drawcord at the hem for a customizable fit. With flap side pockets secured by Velcro fasteners and an additional inside pocket for valuables, it combines smart storage solutions with practical design. The timeless style makes it perfect for urban and outdoor adventures, while the comfortable lining enhances coziness on chilly days. Versatile and fashionable, the Winter Puffer Jacket blends style, functionality, and comfort, making it an essential addition to any wardrobe.",
@@ -2448,7 +2449,7 @@ let allData = [
   {
     code: "AAJPF-04",
     category: "Jackets",
-    name: "Puffer-Jacket",
+    name: "ArcticStorm Puffer-Jacket",
     image: jacketPUFFY4,
     details:
       "The Winter Puffer Jacket is the ultimate coat, offering exceptional protection against the elements. Crafted with precision, this lightly padded bubble coat features windproof and water-resistant fabric, ensuring reliable defense against light showers and cold winds. Designed for functionality, the jacket includes a stand-up collar for added warmth, a front zipper closure for convenience, and an elasticized drawcord at the hem for a customizable fit. With flap side pockets secured by Velcro fasteners and an additional inside pocket for valuables, it combines smart storage solutions with practical design. The timeless style makes it perfect for urban and outdoor adventures, while the comfortable lining enhances coziness on chilly days. Versatile and fashionable, the Winter Puffer Jacket blends style, functionality, and comfort, making it an essential addition to any wardrobe.",
@@ -2458,7 +2459,7 @@ let allData = [
   {
     code: "AAJPF-05",
     category: "Jackets",
-    name: "Puffer-Jacket",
+    name: "WinterHaven Puffer-Jacket",
     image: jacketPUFFY5,
     details:
       "The Winter Puffer Jacket is the ultimate coat, offering exceptional protection against the elements. Crafted with precision, this lightly padded bubble coat features windproof and water-resistant fabric, ensuring reliable defense against light showers and cold winds. Designed for functionality, the jacket includes a stand-up collar for added warmth, a front zipper closure for convenience, and an elasticized drawcord at the hem for a customizable fit. With flap side pockets secured by Velcro fasteners and an additional inside pocket for valuables, it combines smart storage solutions with practical design. The timeless style makes it perfect for urban and outdoor adventures, while the comfortable lining enhances coziness on chilly days. Versatile and fashionable, the Winter Puffer Jacket blends style, functionality, and comfort, making it an essential addition to any wardrobe.",
@@ -2468,7 +2469,7 @@ let allData = [
   {
     code: "AAJPF-06",
     category: "Jackets",
-    name: "Puffer-Jacket",
+    name: "CloudPuff Puffer-Jacket",
     image: jacketPUFFY6,
     details:
       "The Winter Puffer Jacket is the ultimate coat, offering exceptional protection against the elements. Crafted with precision, this lightly padded bubble coat features windproof and water-resistant fabric, ensuring reliable defense against light showers and cold winds. Designed for functionality, the jacket includes a stand-up collar for added warmth, a front zipper closure for convenience, and an elasticized drawcord at the hem for a customizable fit. With flap side pockets secured by Velcro fasteners and an additional inside pocket for valuables, it combines smart storage solutions with practical design. The timeless style makes it perfect for urban and outdoor adventures, while the comfortable lining enhances coziness on chilly days. Versatile and fashionable, the Winter Puffer Jacket blends style, functionality, and comfort, making it an essential addition to any wardrobe.",
@@ -2478,7 +2479,7 @@ let allData = [
   {
     code: "AAJPF-07",
     category: "Jackets",
-    name: "Puffer-Jacket",
+    name: "CozyQuilt Puffer-Jacket",
     image: jacketPUFFY7,
     details:
       "The Winter Puffer Jacket is the ultimate coat, offering exceptional protection against the elements. Crafted with precision, this lightly padded bubble coat features windproof and water-resistant fabric, ensuring reliable defense against light showers and cold winds. Designed for functionality, the jacket includes a stand-up collar for added warmth, a front zipper closure for convenience, and an elasticized drawcord at the hem for a customizable fit. With flap side pockets secured by Velcro fasteners and an additional inside pocket for valuables, it combines smart storage solutions with practical design. The timeless style makes it perfect for urban and outdoor adventures, while the comfortable lining enhances coziness on chilly days. Versatile and fashionable, the Winter Puffer Jacket blends style, functionality, and comfort, making it an essential addition to any wardrobe.",
@@ -2488,7 +2489,7 @@ let allData = [
   {
     code: "AAJPF-08",
     category: "Jackets",
-    name: "Puffer-Jacket",
+    name: "IceShield Puffer-Jacket",
     image: jacketPUFFY8,
     details:
       "The Winter Puffer Jacket is the ultimate coat, offering exceptional protection against the elements. Crafted with precision, this lightly padded bubble coat features windproof and water-resistant fabric, ensuring reliable defense against light showers and cold winds. Designed for functionality, the jacket includes a stand-up collar for added warmth, a front zipper closure for convenience, and an elasticized drawcord at the hem for a customizable fit. With flap side pockets secured by Velcro fasteners and an additional inside pocket for valuables, it combines smart storage solutions with practical design. The timeless style makes it perfect for urban and outdoor adventures, while the comfortable lining enhances coziness on chilly days. Versatile and fashionable, the Winter Puffer Jacket blends style, functionality, and comfort, making it an essential addition to any wardrobe.",
@@ -2498,7 +2499,7 @@ let allData = [
   {
     code: "AAJPF-09",
     category: "Jackets",
-    name: "Puffer-Jacket",
+    name: "StormNest Puffer-Jacket",
     image: jacketPUFFY9,
     details:
       "The Winter Puffer Jacket is the ultimate coat, offering exceptional protection against the elements. Crafted with precision, this lightly padded bubble coat features windproof and water-resistant fabric, ensuring reliable defense against light showers and cold winds. Designed for functionality, the jacket includes a stand-up collar for added warmth, a front zipper closure for convenience, and an elasticized drawcord at the hem for a customizable fit. With flap side pockets secured by Velcro fasteners and an additional inside pocket for valuables, it combines smart storage solutions with practical design. The timeless style makes it perfect for urban and outdoor adventures, while the comfortable lining enhances coziness on chilly days. Versatile and fashionable, the Winter Puffer Jacket blends style, functionality, and comfort, making it an essential addition to any wardrobe.",
@@ -2508,7 +2509,7 @@ let allData = [
   {
     code: "AAJPF-010",
     category: "Jackets",
-    name: "Puffer-Jacket",
+    name: "WarmThrive Puffer-Jacket",
     image: jacketPUFFY10,
     details:
       "The Winter Puffer Jacket is the ultimate coat, offering exceptional protection against the elements. Crafted with precision, this lightly padded bubble coat features windproof and water-resistant fabric, ensuring reliable defense against light showers and cold winds. Designed for functionality, the jacket includes a stand-up collar for added warmth, a front zipper closure for convenience, and an elasticized drawcord at the hem for a customizable fit. With flap side pockets secured by Velcro fasteners and an additional inside pocket for valuables, it combines smart storage solutions with practical design. The timeless style makes it perfect for urban and outdoor adventures, while the comfortable lining enhances coziness on chilly days. Versatile and fashionable, the Winter Puffer Jacket blends style, functionality, and comfort, making it an essential addition to any wardrobe.",
@@ -2518,7 +2519,7 @@ let allData = [
   {
     code: "AAJPF-011",
     category: "Jackets",
-    name: "Puffer-Jacket",
+    name: "NorthBliss Puffer-Jacket",
     image: jacketPUFFY11,
     details:
       "The Winter Puffer Jacket is the ultimate coat, offering exceptional protection against the elements. Crafted with precision, this lightly padded bubble coat features windproof and water-resistant fabric, ensuring reliable defense against light showers and cold winds. Designed for functionality, the jacket includes a stand-up collar for added warmth, a front zipper closure for convenience, and an elasticized drawcord at the hem for a customizable fit. With flap side pockets secured by Velcro fasteners and an additional inside pocket for valuables, it combines smart storage solutions with practical design. The timeless style makes it perfect for urban and outdoor adventures, while the comfortable lining enhances coziness on chilly days. Versatile and fashionable, the Winter Puffer Jacket blends style, functionality, and comfort, making it an essential addition to any wardrobe.",
@@ -2528,7 +2529,7 @@ let allData = [
   {
     code: "AAJPF-012",
     category: "Jackets",
-    name: "Puffer-Jacket",
+    name: "GlacierWrap Puffer-Jacket",
     image: jacketPUFFY12,
     details:
       "The Winter Puffer Jacket is the ultimate coat, offering exceptional protection against the elements. Crafted with precision, this lightly padded bubble coat features windproof and water-resistant fabric, ensuring reliable defense against light showers and cold winds. Designed for functionality, the jacket includes a stand-up collar for added warmth, a front zipper closure for convenience, and an elasticized drawcord at the hem for a customizable fit. With flap side pockets secured by Velcro fasteners and an additional inside pocket for valuables, it combines smart storage solutions with practical design. The timeless style makes it perfect for urban and outdoor adventures, while the comfortable lining enhances coziness on chilly days. Versatile and fashionable, the Winter Puffer Jacket blends style, functionality, and comfort, making it an essential addition to any wardrobe.",
@@ -2538,7 +2539,7 @@ let allData = [
   {
     code: "AAJVJ-01",
     category: "Jackets",
-    name: "Varisty-Jacket",
+    name: "CampusCrew Varisty-Jacket",
     image: jacketVARISTY1,
     details:
       "Our varsity jacket, crafted from light and soft fabric, is the perfect blend of style and comfort for indoor and outdoor wear across Spring, Fall, and Winter. Designed with high-quality materials, it features PU leather sleeves, elastic cuffs, a ribbed hem, slanted front pockets, and a snap-button closure. This classic American letterman jacket is ideal for individuals, teams, and groups. Perfect for casual outings, school, sports, and parties, it pairs effortlessly with jeans and T-shirts, making it a versatile wardrobe essential for any season.",
@@ -2549,7 +2550,7 @@ let allData = [
   {
     code: "AAJVJ-02",
     category: "Jackets",
-    name: "Varisty-Jacket",
+    name: "Varsity Legacy Varisty-Jacket",
     image: jacketVARISTY2,
     details:
       "Our varsity jacket, crafted from light and soft fabric, is the perfect blend of style and comfort for indoor and outdoor wear across Spring, Fall, and Winter. Designed with high-quality materials, it features PU leather sleeves, elastic cuffs, a ribbed hem, slanted front pockets, and a snap-button closure. This classic American letterman jacket is ideal for individuals, teams, and groups. Perfect for casual outings, school, sports, and parties, it pairs effortlessly with jeans and T-shirts, making it a versatile wardrobe essential for any season.",
@@ -2560,7 +2561,7 @@ let allData = [
   {
     code: "AAJVJ-03",
     category: "Jackets",
-    name: "Varisty-Jacket",
+    name: "GameDay Varisty-Jacket",
     image: jacketVARISTY3,
     details:
       "Our varsity jacket, crafted from light and soft fabric, is the perfect blend of style and comfort for indoor and outdoor wear across Spring, Fall, and Winter. Designed with high-quality materials, it features PU leather sleeves, elastic cuffs, a ribbed hem, slanted front pockets, and a snap-button closure. This classic American letterman jacket is ideal for individuals, teams, and groups. Perfect for casual outings, school, sports, and parties, it pairs effortlessly with jeans and T-shirts, making it a versatile wardrobe essential for any season.",
@@ -2571,7 +2572,7 @@ let allData = [
   {
     code: "AAJVJ-04",
     category: "Jackets",
-    name: "Varisty-Jacket",
+    name: "SpiritStitch Varisty-Jacket",
     image: jacketVARISTY4,
     details:
       "Our varsity jacket, crafted from light and soft fabric, is the perfect blend of style and comfort for indoor and outdoor wear across Spring, Fall, and Winter. Designed with high-quality materials, it features PU leather sleeves, elastic cuffs, a ribbed hem, slanted front pockets, and a snap-button closure. This classic American letterman jacket is ideal for individuals, teams, and groups. Perfect for casual outings, school, sports, and parties, it pairs effortlessly with jeans and T-shirts, making it a versatile wardrobe essential for any season.",
@@ -2582,7 +2583,7 @@ let allData = [
   {
     code: "AAJVJ-05",
     category: "Jackets",
-    name: "Varisty-Jacket",
+    name: "PridePatch Varisty-Jacket",
     image: jacketVARISTY5,
     details:
       "Our varsity jacket, crafted from light and soft fabric, is the perfect blend of style and comfort for indoor and outdoor wear across Spring, Fall, and Winter. Designed with high-quality materials, it features PU leather sleeves, elastic cuffs, a ribbed hem, slanted front pockets, and a snap-button closure. This classic American letterman jacket is ideal for individuals, teams, and groups. Perfect for casual outings, school, sports, and parties, it pairs effortlessly with jeans and T-shirts, making it a versatile wardrobe essential for any season.",
@@ -2593,7 +2594,7 @@ let allData = [
   {
     code: "AAJVJ-06",
     category: "Jackets",
-    name: "Varisty-Jacket",
+    name: "Classic Varisty-Jacket",
     image: jacketVARISTY6,
     details:
       "Our varsity jacket, crafted from light and soft fabric, is the perfect blend of style and comfort for indoor and outdoor wear across Spring, Fall, and Winter. Designed with high-quality materials, it features PU leather sleeves, elastic cuffs, a ribbed hem, slanted front pockets, and a snap-button closure. This classic American letterman jacket is ideal for individuals, teams, and groups. Perfect for casual outings, school, sports, and parties, it pairs effortlessly with jeans and T-shirts, making it a versatile wardrobe essential for any season.",
@@ -2604,7 +2605,7 @@ let allData = [
   {
     code: "AAJVJ-07",
     category: "Jackets",
-    name: "Varisty-Jacket",
+    name: "Retro Varisty-Jacket",
     image: jacketVARISTY7,
     details:
       "Our varsity jacket, crafted from light and soft fabric, is the perfect blend of style and comfort for indoor and outdoor wear across Spring, Fall, and Winter. Designed with high-quality materials, it features PU leather sleeves, elastic cuffs, a ribbed hem, slanted front pockets, and a snap-button closure. This classic American letterman jacket is ideal for individuals, teams, and groups. Perfect for casual outings, school, sports, and parties, it pairs effortlessly with jeans and T-shirts, making it a versatile wardrobe essential for any season.",
@@ -2615,7 +2616,7 @@ let allData = [
   {
     code: "AAJVJ-08",
     category: "Jackets",
-    name: "Varisty-Jacket",
+    name: "All-American Stylen Varisty-Jacket",
     image: jacketVARISTY8,
     details:
       "Our varsity jacket, crafted from light and soft fabric, is the perfect blend of style and comfort for indoor and outdoor wear across Spring, Fall, and Winter. Designed with high-quality materials, it features PU leather sleeves, elastic cuffs, a ribbed hem, slanted front pockets, and a snap-button closure. This classic American letterman jacket is ideal for individuals, teams, and groups. Perfect for casual outings, school, sports, and parties, it pairs effortlessly with jeans and T-shirts, making it a versatile wardrobe essential for any season.",
@@ -2626,7 +2627,7 @@ let allData = [
   {
     code: "AAJVJ-09",
     category: "Jackets",
-    name: "Varisty-Jacket",
+    name: "Legacy League Varisty-Jacket",
     image: jacketVARISTY9,
     details:
       "Our varsity jacket, crafted from light and soft fabric, is the perfect blend of style and comfort for indoor and outdoor wear across Spring, Fall, and Winter. Designed with high-quality materials, it features PU leather sleeves, elastic cuffs, a ribbed hem, slanted front pockets, and a snap-button closure. This classic American letterman jacket is ideal for individuals, teams, and groups. Perfect for casual outings, school, sports, and parties, it pairs effortlessly with jeans and T-shirts, making it a versatile wardrobe essential for any season.",
@@ -2637,7 +2638,7 @@ let allData = [
   {
     code: "AAJVJ-010",
     category: "Jackets",
-    name: "Varisty-Jacket",
+    name: "Varsity Hustle Varisty-Jacket",
     image: jacketVARISTY10,
     details:
       "Our varsity jacket, crafted from light and soft fabric, is the perfect blend of style and comfort for indoor and outdoor wear across Spring, Fall, and Winter. Designed with high-quality materials, it features PU leather sleeves, elastic cuffs, a ribbed hem, slanted front pockets, and a snap-button closure. This classic American letterman jacket is ideal for individuals, teams, and groups. Perfect for casual outings, school, sports, and parties, it pairs effortlessly with jeans and T-shirts, making it a versatile wardrobe essential for any season.",
@@ -2648,7 +2649,7 @@ let allData = [
   {
     code: "AAJVJ-011",
     category: "Jackets",
-    name: "Varisty-Jacket",
+    name: "Scholarly Spirit Varisty-Jacket",
     image: jacketVARISTY11,
     details:
       "Our varsity jacket, crafted from light and soft fabric, is the perfect blend of style and comfort for indoor and outdoor wear across Spring, Fall, and Winter. Designed with high-quality materials, it features PU leather sleeves, elastic cuffs, a ribbed hem, slanted front pockets, and a snap-button closure. This classic American letterman jacket is ideal for individuals, teams, and groups. Perfect for casual outings, school, sports, and parties, it pairs effortlessly with jeans and T-shirts, making it a versatile wardrobe essential for any season.",
@@ -2659,7 +2660,7 @@ let allData = [
   {
     code: "AAJVJ-012",
     category: "Jackets",
-    name: "Varisty-Jacket",
+    name: "Elite Varisty-Jacket",
     image: jacketVARISTY12,
     details:
       "Our varsity jacket, crafted from light and soft fabric, is the perfect blend of style and comfort for indoor and outdoor wear across Spring, Fall, and Winter. Designed with high-quality materials, it features PU leather sleeves, elastic cuffs, a ribbed hem, slanted front pockets, and a snap-button closure. This classic American letterman jacket is ideal for individuals, teams, and groups. Perfect for casual outings, school, sports, and parties, it pairs effortlessly with jeans and T-shirts, making it a versatile wardrobe essential for any season.",
@@ -2669,7 +2670,7 @@ let allData = [
   {
     code: "AAJBJ-01",
     category: "Jackets",
-    name: "Bomber-Jacket",
+    name: "Skyline Bomber-Jacket",
     image: jacketBOMBER1,
     details:
       "This lightweight polyester windbreaker bomber jacket is breathable and features a full-zipper stand collar design with the zipper head positioned on the left. Key features include rib-knit cuffs, a waistband, and a collar for added comfort, along with dual pen pockets on the sleeve. The jacket offers multiple pockets, including a zipper sleeve pocket, two slant hand pockets, and one inner pocket. It is suitable for outdoor activities, casual wear, sports, working, hiking, clubwear, or daily life during spring, fall, or similar seasons.",
@@ -2678,7 +2679,7 @@ let allData = [
   {
     code: "AAJBJ-02",
     category: "Jackets",
-    name: "Bomber-Jacket",
+    name: "AeroEdge Bomber-Jacket",
     image: jacketBOMBER2,
     details:
       "This lightweight polyester windbreaker bomber jacket is breathable and features a full-zipper stand collar design with the zipper head positioned on the left. Key features include rib-knit cuffs, a waistband, and a collar for added comfort, along with dual pen pockets on the sleeve. The jacket offers multiple pockets, including a zipper sleeve pocket, two slant hand pockets, and one inner pocket. It is suitable for outdoor activities, casual wear, sports, working, hiking, clubwear, or daily life during spring, fall, or similar seasons.",
@@ -2687,7 +2688,7 @@ let allData = [
   {
     code: "AAJBJ-03",
     category: "Jackets",
-    name: "Bomber-Jacket",
+    name: "Urban Maverick Bomber-Jacket",
     image: jacketBOMBER3,
     details:
       "This lightweight polyester windbreaker bomber jacket is breathable and features a full-zipper stand collar design with the zipper head positioned on the left. Key features include rib-knit cuffs, a waistband, and a collar for added comfort, along with dual pen pockets on the sleeve. The jacket offers multiple pockets, including a zipper sleeve pocket, two slant hand pockets, and one inner pocket. It is suitable for outdoor activities, casual wear, sports, working, hiking, clubwear, or daily life during spring, fall, or similar seasons.",
@@ -2696,7 +2697,7 @@ let allData = [
   {
     code: "AAJBJ-04",
     category: "Jackets",
-    name: "Bomber-Jacket",
+    name: "Flight Mode Bomber-Jacket",
     image: jacketBOMBER4,
     details:
       "This lightweight polyester windbreaker bomber jacket is breathable and features a full-zipper stand collar design with the zipper head positioned on the left. Key features include rib-knit cuffs, a waistband, and a collar for added comfort, along with dual pen pockets on the sleeve. The jacket offers multiple pockets, including a zipper sleeve pocket, two slant hand pockets, and one inner pocket. It is suitable for outdoor activities, casual wear, sports, working, hiking, clubwear, or daily life during spring, fall, or similar seasons.",
@@ -2705,7 +2706,7 @@ let allData = [
   {
     code: "AAJBJ-05",
     category: "Jackets",
-    name: "Bomber-Jacket",
+    name: "Cloud Rider Bomber-Jacket",
     image: jacketBOMBER5,
     details:
       "This lightweight polyester windbreaker bomber jacket is breathable and features a full-zipper stand collar design with the zipper head positioned on the left. Key features include rib-knit cuffs, a waistband, and a collar for added comfort, along with dual pen pockets on the sleeve. The jacket offers multiple pockets, including a zipper sleeve pocket, two slant hand pockets, and one inner pocket. It is suitable for outdoor activities, casual wear, sports, working, hiking, clubwear, or daily life during spring, fall, or similar seasons.",
@@ -2714,7 +2715,7 @@ let allData = [
   {
     code: "AAJBJ-06",
     category: "Jackets",
-    name: "Bomber-Jacket",
+    name: "Altitude X Bomber-Jacket",
     image: jacketBOMBER6,
     details:
       "This lightweight polyester windbreaker bomber jacket is breathable and features a full-zipper stand collar design with the zipper head positioned on the left. Key features include rib-knit cuffs, a waistband, and a collar for added comfort, along with dual pen pockets on the sleeve. The jacket offers multiple pockets, including a zipper sleeve pocket, two slant hand pockets, and one inner pocket. It is suitable for outdoor activities, casual wear, sports, working, hiking, clubwear, or daily life during spring, fall, or similar seasons.",
@@ -2723,7 +2724,7 @@ let allData = [
   {
     code: "AAJBJ-07",
     category: "Jackets",
-    name: "Bomber-Jacket",
+    name: "Jetstream Bomber-Jacket",
     image: jacketBOMBER7,
     details:
       "This lightweight polyester windbreaker bomber jacket is breathable and features a full-zipper stand collar design with the zipper head positioned on the left. Key features include rib-knit cuffs, a waistband, and a collar for added comfort, along with dual pen pockets on the sleeve. The jacket offers multiple pockets, including a zipper sleeve pocket, two slant hand pockets, and one inner pocket. It is suitable for outdoor activities, casual wear, sports, working, hiking, clubwear, or daily life during spring, fall, or similar seasons.",
@@ -2732,7 +2733,7 @@ let allData = [
   {
     code: "AAJBJ-08",
     category: "Jackets",
-    name: "Bomber-Jacket",
+    name: "Bold Barrage Bomber-Jacket",
     image: jacketBOMBER8,
     details:
       "This lightweight polyester windbreaker bomber jacket is breathable and features a full-zipper stand collar design with the zipper head positioned on the left. Key features include rib-knit cuffs, a waistband, and a collar for added comfort, along with dual pen pockets on the sleeve. The jacket offers multiple pockets, including a zipper sleeve pocket, two slant hand pockets, and one inner pocket. It is suitable for outdoor activities, casual wear, sports, working, hiking, clubwear, or daily life during spring, fall, or similar seasons.",
@@ -2741,7 +2742,7 @@ let allData = [
   {
     code: "AAJBJ-09",
     category: "Jackets",
-    name: "Bomber-Jacket",
+    name: "StormBreaker Bomber-Jacket",
     image: jacketBOMBER9,
     details:
       "This lightweight polyester windbreaker bomber jacket is breathable and features a full-zipper stand collar design with the zipper head positioned on the left. Key features include rib-knit cuffs, a waistband, and a collar for added comfort, along with dual pen pockets on the sleeve. The jacket offers multiple pockets, including a zipper sleeve pocket, two slant hand pockets, and one inner pocket. It is suitable for outdoor activities, casual wear, sports, working, hiking, clubwear, or daily life during spring, fall, or similar seasons.",
@@ -2750,7 +2751,7 @@ let allData = [
   {
     code: "AAJBJ-010",
     category: "Jackets",
-    name: "Bomber-Jacket",
+    name: "Vortex Bomber-Jacket",
     image: jacketBOMBER10,
     details:
       "This lightweight polyester windbreaker bomber jacket is breathable and features a full-zipper stand collar design with the zipper head positioned on the left. Key features include rib-knit cuffs, a waistband, and a collar for added comfort, along with dual pen pockets on the sleeve. The jacket offers multiple pockets, including a zipper sleeve pocket, two slant hand pockets, and one inner pocket. It is suitable for outdoor activities, casual wear, sports, working, hiking, clubwear, or daily life during spring, fall, or similar seasons.",
@@ -2759,7 +2760,7 @@ let allData = [
   {
     code: "AAJBJ-011",
     category: "Jackets",
-    name: "Bomber-Jacket",
+    name: "Iron Crest Bomber-Jacket",
     image: jacketBOMBER11,
     details:
       "This lightweight polyester windbreaker bomber jacket is breathable and features a full-zipper stand collar design with the zipper head positioned on the left. Key features include rib-knit cuffs, a waistband, and a collar for added comfort, along with dual pen pockets on the sleeve. The jacket offers multiple pockets, including a zipper sleeve pocket, two slant hand pockets, and one inner pocket. It is suitable for outdoor activities, casual wear, sports, working, hiking, clubwear, or daily life during spring, fall, or similar seasons.",
@@ -2768,7 +2769,7 @@ let allData = [
   {
     code: "AAJBJ-012",
     category: "Jackets",
-    name: "Bomber-Jacket",
+    name: "Alpha Aviator Bomber-Jacket",
     image: jacketBOMBER12,
     details:
       "This lightweight polyester windbreaker bomber jacket is breathable and features a full-zipper stand collar design with the zipper head positioned on the left. Key features include rib-knit cuffs, a waistband, and a collar for added comfort, along with dual pen pockets on the sleeve. The jacket offers multiple pockets, including a zipper sleeve pocket, two slant hand pockets, and one inner pocket. It is suitable for outdoor activities, casual wear, sports, working, hiking, clubwear, or daily life during spring, fall, or similar seasons.",
@@ -2778,7 +2779,7 @@ let allData = [
     code: "AAJJJ-01",
 
     category: "Jackets",
-    name: "Denim-Jacket",
+    name: "Indigo Edge Denim-Jacket",
     image: jacketJEAN1,
     details:
       "A timeless wardrobe staple, this classic denim jacket is perfect for any weather and effortlessly completes any look while never going out of style. Featuring a button closure, it combines an elevated design with uncompromised comfort. Available in multiple color options, this versatile jacket pairs beautifully with dresses for date nights or provides an extra layer of warmth on cooler evenings. Crafted from a soft cotton blend, it ensures all-day comfort and mobility with a flexible design. Practical and stylish, it includes spade flap pockets and vertical welt front pockets for convenient storage of essentials.",
@@ -2788,7 +2789,7 @@ let allData = [
     code: "AAJJJ-02",
 
     category: "Jackets",
-    name: "Denim-Jacket",
+    name: "Denim Drift Denim-Jacket",
     image: jacketJEAN2,
     details:
       "A timeless wardrobe staple, this classic denim jacket is perfect for any weather and effortlessly completes any look while never going out of style. Featuring a button closure, it combines an elevated design with uncompromised comfort. Available in multiple color options, this versatile jacket pairs beautifully with dresses for date nights or provides an extra layer of warmth on cooler evenings. Crafted from a soft cotton blend, it ensures all-day comfort and mobility with a flexible design. Practical and stylish, it includes spade flap pockets and vertical welt front pockets for convenient storage of essentials.",
@@ -2798,7 +2799,7 @@ let allData = [
     code: "AAJJJ-03",
 
     category: "Jackets",
-    name: "Denim-Jacket",
+    name: "Blue Blaze Denim-Jacket",
     image: jacketJEAN3,
     details:
       "A timeless wardrobe staple, this classic denim jacket is perfect for any weather and effortlessly completes any look while never going out of style. Featuring a button closure, it combines an elevated design with uncompromised comfort. Available in multiple color options, this versatile jacket pairs beautifully with dresses for date nights or provides an extra layer of warmth on cooler evenings. Crafted from a soft cotton blend, it ensures all-day comfort and mobility with a flexible design. Practical and stylish, it includes spade flap pockets and vertical welt front pockets for convenient storage of essentials.",
@@ -2808,7 +2809,7 @@ let allData = [
     code: "AAJJJ-04",
 
     category: "Jackets",
-    name: "Denim-Jacket",
+    name: "Urban Thread Denim-Jacket",
     image: jacketJEAN4,
     details:
       "A timeless wardrobe staple, this classic denim jacket is perfect for any weather and effortlessly completes any look while never going out of style. Featuring a button closure, it combines an elevated design with uncompromised comfort. Available in multiple color options, this versatile jacket pairs beautifully with dresses for date nights or provides an extra layer of warmth on cooler evenings. Crafted from a soft cotton blend, it ensures all-day comfort and mobility with a flexible design. Practical and stylish, it includes spade flap pockets and vertical welt front pockets for convenient storage of essentials.",
@@ -2818,7 +2819,7 @@ let allData = [
     code: "AAJJJ-05",
 
     category: "Jackets",
-    name: "Denim-Jacket",
+    name: "Heritage Hue Denim-Jacket",
     image: jacketJEAN5,
     details:
       "A timeless wardrobe staple, this classic denim jacket is perfect for any weather and effortlessly completes any look while never going out of style. Featuring a button closure, it combines an elevated design with uncompromised comfort. Available in multiple color options, this versatile jacket pairs beautifully with dresses for date nights or provides an extra layer of warmth on cooler evenings. Crafted from a soft cotton blend, it ensures all-day comfort and mobility with a flexible design. Practical and stylish, it includes spade flap pockets and vertical welt front pockets for convenient storage of essentials.",
@@ -2828,7 +2829,7 @@ let allData = [
     code: "AAJJJ-06",
 
     category: "Jackets",
-    name: "Denim-Jacket",
+    name: "Fade Frontier Denim-Jacket",
     image: jacketJEAN6,
     details:
       "A timeless wardrobe staple, this classic denim jacket is perfect for any weather and effortlessly completes any look while never going out of style. Featuring a button closure, it combines an elevated design with uncompromised comfort. Available in multiple color options, this versatile jacket pairs beautifully with dresses for date nights or provides an extra layer of warmth on cooler evenings. Crafted from a soft cotton blend, it ensures all-day comfort and mobility with a flexible design. Practical and stylish, it includes spade flap pockets and vertical welt front pockets for convenient storage of essentials.",
@@ -2838,7 +2839,7 @@ let allData = [
     code: "AAJJJ-07",
 
     category: "Jackets",
-    name: "Denim-Jacket",
+    name: "Vintage Voyager Denim-Jacket",
     image: jacketJEAN7,
     details:
       "A timeless wardrobe staple, this classic denim jacket is perfect for any weather and effortlessly completes any look while never going out of style. Featuring a button closure, it combines an elevated design with uncompromised comfort. Available in multiple color options, this versatile jacket pairs beautifully with dresses for date nights or provides an extra layer of warmth on cooler evenings. Crafted from a soft cotton blend, it ensures all-day comfort and mobility with a flexible design. Practical and stylish, it includes spade flap pockets and vertical welt front pockets for convenient storage of essentials.",
@@ -2847,7 +2848,7 @@ let allData = [
   {
     code: "AAJJJ-08",
     category: "Jackets",
-    name: "Denim-Jacket",
+    name: "Raw Ridge Denim-Jacket",
 
     image: jacketJEAN8,
     details:
@@ -2858,7 +2859,7 @@ let allData = [
     code: "AAJJJ-09",
 
     category: "Jackets",
-    name: "Denim-Jacket",
+    name: "Denim Dusk Denim-Jacket",
     image: jacketJEAN9,
     details:
       "A timeless wardrobe staple, this classic denim jacket is perfect for any weather and effortlessly completes any look while never going out of style. Featuring a button closure, it combines an elevated design with uncompromised comfort. Available in multiple color options, this versatile jacket pairs beautifully with dresses for date nights or provides an extra layer of warmth on cooler evenings. Crafted from a soft cotton blend, it ensures all-day comfort and mobility with a flexible design. Practical and stylish, it includes spade flap pockets and vertical welt front pockets for convenient storage of essentials.",
@@ -2868,7 +2869,7 @@ let allData = [
     code: "AAJJJ-010",
 
     category: "Jackets",
-    name: "Denim-Jacket",
+    name: "True Blue Denim-Jacket",
     image: jacketJEAN10,
     details:
       "A timeless wardrobe staple, this classic denim jacket is perfect for any weather and effortlessly completes any look while never going out of style. Featuring a button closure, it combines an elevated design with uncompromised comfort. Available in multiple color options, this versatile jacket pairs beautifully with dresses for date nights or provides an extra layer of warmth on cooler evenings. Crafted from a soft cotton blend, it ensures all-day comfort and mobility with a flexible design. Practical and stylish, it includes spade flap pockets and vertical welt front pockets for convenient storage of essentials.",
@@ -2878,7 +2879,7 @@ let allData = [
     code: "AAJJJ-011",
 
     category: "Jackets",
-    name: "Denim-Jacket",
+    name: "Heritage Threads Denim-Jacket",
     image: jacketJEAN11,
     details:
       "A timeless wardrobe staple, this classic denim jacket is perfect for any weather and effortlessly completes any look while never going out of style. Featuring a button closure, it combines an elevated design with uncompromised comfort. Available in multiple color options, this versatile jacket pairs beautifully with dresses for date nights or provides an extra layer of warmth on cooler evenings. Crafted from a soft cotton blend, it ensures all-day comfort and mobility with a flexible design. Practical and stylish, it includes spade flap pockets and vertical welt front pockets for convenient storage of essentials.",
@@ -2888,7 +2889,7 @@ let allData = [
     code: "AAJJJ-012",
 
     category: "Jackets",
-    name: "Denim-Jacket",
+    name: "Wild Stitch Denim-Jacket",
     image: jacketJEAN12,
     details:
       "A timeless wardrobe staple, this classic denim jacket is perfect for any weather and effortlessly completes any look while never going out of style. Featuring a button closure, it combines an elevated design with uncompromised comfort. Available in multiple color options, this versatile jacket pairs beautifully with dresses for date nights or provides an extra layer of warmth on cooler evenings. Crafted from a soft cotton blend, it ensures all-day comfort and mobility with a flexible design. Practical and stylish, it includes spade flap pockets and vertical welt front pockets for convenient storage of essentials.",

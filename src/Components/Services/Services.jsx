@@ -32,7 +32,7 @@ export default function Services() {
             <Col className=''>
             <bold className="text-primary boldfontsize fw-bold text-dark">24/7 SUPPORT</bold>
             
-            <p className='fw-light text-secondary fontsize'>Feel Free to Contact Us 24/7 via <strong>email:</strong> araiapparel@gmail.com or <strong>WhatsApp:</strong> +92-314-6997979</p>
+            <p className='fw-light text-secondary fontsize'>Feel Free to Contact Us 24/7 via <strong>email:</strong> araiapparel@gmail.com or <strong>WhatsApp:</strong> +92-327-9008806</p>
             </Col>
         </Row>
     </Col>

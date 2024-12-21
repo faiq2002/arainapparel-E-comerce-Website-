@@ -11,9 +11,9 @@ import BottomCategory from "../Components/BottomCategory/BottomCategory";
 import Rights from "../Components/Rights/Rights";
 
 
-export default function Productinfo() {
-  
 
+export default function Productinfo() {
+ 
 
   let uselocation = useLocation();
   let currentProductCode = uselocation.pathname.split("/")[3];
@@ -21,7 +21,9 @@ export default function Productinfo() {
   let currentProductName = uselocation.pathname.split("/")[2];
   let currentProduct = allData.filter((v) => v.code === currentProductCode)[0];
   let relatedCurrentCategory=allData.filter((v) => v.category === currentProductcategory)
-  let relatedcategory = relatedCurrentCategory.filter((v) => v.name === currentProductName);
+ 
+  
+  let relatedcategory = relatedCurrentCategory.filter((v)=> v.name.includes(currentProductName));
   let relatedfilterProducts = relatedcategory.filter(
     (v) => v.code !== currentProductCode
   );
@@ -46,7 +48,7 @@ export default function Productinfo() {
         <div className="line m-auto mb-5 "></div>
         <Row className="gy-3">
           {resizeArray.map((value, index) => {
-            return <ProductCard value={value} key={index} />;
+            return <ProductCard value={value} name={currentProductName} key={index} />;
           })}
         </Row>
       </Container>

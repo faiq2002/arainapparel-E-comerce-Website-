@@ -1,4 +1,5 @@
 import React from "react";
+import { Analytics } from '@vercel/analytics/react';
 import Header from "../Components/Header/Header";
 import Info from "../Components/Info/Info";
 import Slider from "../Components/Slider/Slider";
@@ -73,6 +74,7 @@ export default function Home() {
       <BottomCategory/>
       <Footer />
       <Rights/>
+      <Analytics />
     </div>
   );
 }

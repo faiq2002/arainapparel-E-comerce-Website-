@@ -40,7 +40,7 @@ export default function Footer({name}) {
             
             <span className=' fs-5 '> Site Links</span>
             <Link to={"/About"} className='none' >
-            <li className={`list-group-item cursor  navlink py-1   ${name==="About"?"fw-semi-bold active":" fw-light text-secondary"}`} onClick={()=>window.scrollTo(0,0)}>About Us</li>
+            <li className={`list-group-item cursor mt-3 navlink py-1   ${name==="About"?"fw-semi-bold active":" fw-light text-secondary"}`} onClick={()=>window.scrollTo(0,0)}>About Us</li>
                 </Link>
 
                 <Link to={"/Faq,s"} className='none'>
