@@ -19,9 +19,11 @@ export default function OnlineInquiryyStatus() {
    <Header/>
    <Info/>
    <Container fluid className="bg-body-tertiary">
-        <p className="px-5  py-1 text-secondary ">
+        <Container>
+        <p className=" py-1 text-secondary ">
           Home / Online Inquiry Status
         </p>
+        </Container>
         </Container>
         <Container className='mt-5'>
             <Row>

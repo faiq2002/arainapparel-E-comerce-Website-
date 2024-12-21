@@ -341,10 +341,7 @@ details:"This men’s jogger pant is designed to combine comfort, style, and fun
                       image:uniformHOCKEY6,
                       details:"This ice hockey uniform is designed to deliver maximum durability, protection, and comfort, ensuring players perform confidently in the fast-paced, high-impact environment of the game. Made from heavy-duty, moisture-wicking fabrics, it keeps players dry and comfortable while withstanding the physical demands of intense play. Featuring sublimation printing, the uniform allows for fully customizable designs, including team logos, player names, and unique patterns, creating a bold and professional look. Reinforced stitching, padded areas, and a tailored fit enhance functionality and safety, providing unrestricted movement while protecting against impacts. Each set includes a jersey, padded shorts, and socks, perfectly designed to meet the rigorous needs of ice hockey.",
                       fabric:"Air-Knit"
-                     },
-                   
-                    
-                     
+                     },     
   
 ];
 export default NewArrival;
