@@ -1,5 +1,6 @@
 import React from "react";
 import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from "@vercel/speed-insights/react"
 import Header from "../Components/Header/Header";
 import Info from "../Components/Info/Info";
 import Slider from "../Components/Slider/Slider";
@@ -75,6 +76,8 @@ export default function Home() {
       <Footer />
       <Rights/>
       <Analytics />
+    
+    <SpeedInsights/>
     </div>
   );
 }

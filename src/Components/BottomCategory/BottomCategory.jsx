@@ -43,7 +43,7 @@ export default function BottomCategory({name}) {
                 <li   className={`list-group-item cursor  navlink py-1   ${name==="Faq,s"?"fw-semi-bold active":" fw-light text-secondary"}`}onClick={()=>window.scrollTo(0,0)}>FAQ,s</li>
                 </Link>
 
-                <Link to={"/Shipping&PaymentMethods"} className='none'>
+                <Link to={"/Payment&ShippingMethods"} className='none'>
                 <li  className={`list-group-item cursor  navlink py-1   ${name==="Shipping&PaymentMethod"?"fw-semi-bold active":" fw-light text-secondary"}`}onClick={()=>window.scrollTo(0,0)}>Shipping & Payment Methods</li>
                 </Link>
                 <Link to={"/PrivacyPolicy"} className='none
